@@ -1,0 +1,1911 @@
+https://www.afiniti.com/
+- https://www.afiniti.com/clients/enel
+-- https://aws.amazon.com
+-- https://www.enel.it
+- https://www.afiniti.com/clients/caesars
+- https://www.afiniti.com/partners
+- https://www.afiniti.com/what-we-do/where-it-works
+- https://www.afiniti.com/news/comment
+-- http://www.wsj.com/podcasts/billionaire-afiniti-ceo-says-ai-needs-more-humans/D26E354F-A1C0-46E3-B8EE-D6BD9649530E.html
+-- https://www.afiniti.com/news/detail/stepping-out-of-your-comfort-zone
+--- https://techcrunch.com/2018/10/23/afiniti-crm-ai
+--- https://www.afiniti.com/team/orlando-hampton
+---- https://www.afiniti.com/offices/washington
+----- https://www.afiniti.com/team/Corey-McCaffrey
+------ https://www.linkedin.com/in/coreymcc
+----- https://www.afiniti.com/team/betsy-koch
+------ https://forbeshrcouncil.com
+------ https://www.linkedin.com/in/betsy-koch-a0886612
+----- https://www.afiniti.com/team/akbar-merchant
+------ https://www.linkedin.com/in/akbar-merchant-0604276
+----- https://www.afiniti.com/team/holly-jones
+------ https://www.linkedin.com/in/hollyjones3
+----- https://www.afiniti.com/team/pat-costello
+------ https://www.linkedin.com/in/pat-costello-a456092
+----- https://www.afiniti.com/team/bob-dunn
+------ https://www.linkedin.com/in/bob-dunn-0049918
+----- https://www.afiniti.com/team/max-lintott
+------ https://www.linkedin.com/in/max-lintott-57954584
+----- https://www.afiniti.com/team/vikash-khatri
+------ https://www.linkedin.com/in/vikash-khatri-5897244
+----- https://www.afiniti.com/team/jason-knott
+------ https://www.linkedin.com/in/jasonmknott
+----- https://www.afiniti.com/team/marje-armstrong
+------ https://www.linkedin.com/in/marje-armstrong-a00475
+----- https://www.afiniti.com/team/Alyssa-Guo
+------ https://www.linkedin.com/in/alyssa-guo-8991547
+----- https://www.afiniti.com/team/luiz-de-toledo
+------ https://www.linkedin.com/in/luiz-de-toledo-79b81526
+----- https://www.afiniti.com/offices#officeList
+------ https://www.afiniti.com/offices/hong-kong
+------- https://www.afiniti.com/team/winnie-leung
+------- https://www.afiniti.com/team/justin-murray
+-------- https://www.linkedin.com/in/justin-murray-71446b33
+------ https://www.afiniti.com/offices/madrid
+------- https://www.afiniti.com/team/borja-bes
+-------- https://www.linkedin.com/in/besborja
+------- https://www.afiniti.com/team/casilda-moro
+-------- https://www.linkedin.com/in/casilda-moro-7b679a89
+------- https://www.afiniti.com/team/alicia-richart
+-------- https://www.linkedin.com/in/aliciarichart
+------- https://www.afiniti.com/team/alonso-aznar
+-------- https://www.linkedin.com/in/alonso-aznar-80026011b
+------- https://www.afiniti.com/team/davide-caramelli
+-------- https://www.linkedin.com/in/davide-caramelli-a0471655
+------- https://www.afiniti.com/team/ignacio-jover-aisa
+-------- https://www.linkedin.com/in/ijoveraisa
+------ https://www.afiniti.com/offices/dusseldorf
+------- https://www.afiniti.com/team/eric-haberland
+-------- https://www.linkedin.com/in/eric-haberland-162574b6
+------- https://www.afiniti.com/team/constantin-nagel
+-------- https://www.linkedin.com/in/constantin-nagel-423a9157
+------- https://www.afiniti.com/team/nouman-aftab
+-------- https://www.linkedin.com/in/nouman-ahmed-aftab-63714564
+------ https://www.afiniti.com/offices/london
+------- https://www.afiniti.com/team/neha-sangani
+-------- https://www.linkedin.com/in/nehasangani/?originalSubdomain=uk
+------- https://www.afiniti.com/team/nick-honeyman-brown
+-------- https://www.linkedin.com/in/nick-honeyman-brown-9646a241
+------- https://www.afiniti.com/team/hannah-mccain
+-------- https://www.linkedin.com/in/hannah-mccain-3b4a1855
+------- https://www.afiniti.com/team/kirsty-young
+-------- https://www.linkedin.com/in/kirsty-young-38a472103
+------- https://www.afiniti.com/team/mijanou-dilks
+-------- https://www.linkedin.com/in/mijanou-dilks-46a54444
+------- https://www.afiniti.com/team/charlie-march
+-------- https://www.linkedin.com/in/charlie-march-15505b161
+------- https://www.afiniti.com/team/archie-soames
+-------- https://www.linkedin.com/in/archie-soames-90b80a134
+------- https://www.afiniti.com/team/jay-duffy
+-------- https://www.linkedin.com/in/jayduffy1
+------- https://www.afiniti.com/team/colin-miles
+-------- https://www.linkedin.com/in/colin-miles-12b2663
+------- https://www.afiniti.com/team/caroline-langan
+-------- https://www.linkedin.com/in/caroline-langan-54389b2
+------- https://www.afiniti.com/team/ali-saeed
+-------- https://www.linkedin.com/in/alisaeedch
+------- https://www.afiniti.com/team/mark-meghezzi
+-------- https://www.linkedin.com/in/mark-meghezzi-948b3459
+------- https://www.afiniti.com/team/paul-rosewarne
+-------- https://www.linkedin.com/in/rosewarne-paul-a2aa2199
+------ https://www.afiniti.com/offices/toronto
+------- https://www.afiniti.com/team/tian-li
+-------- https://www.linkedin.com/in/tian-b-li-72a99823
+------- https://www.afiniti.com/team/michelle-digulla
+-------- https://www.linkedin.com/in/michelle-digulla-4a393211
+------- https://www.afiniti.com/team/nicole-lussier
+-------- https://www.linkedin.com/in/nlussier
+------- https://www.afiniti.com/team/tim-nixon
+-------- https://www.linkedin.com/in/tim-nixon-48920138
+------ https://www.afiniti.com/offices/hamilton
+------- https://www.afiniti.com/news/detail/smith-and-riepenhausen-join-board-of-directors
+-------- https://www.gartner.com/en/newsroom/press-releases/2020-07-15-gartner-identifies-10-ways-for-customer-service-and-s
+-------- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/smith-and-riepenhausen-join-board-of-directors
+-------- https://www.afiniti.com/team/-zia-chishti
+--------- https://www.linkedin.com/in/zia-chishti-a5908814
+-------- https://www.afiniti.com/team/peter-riepenhausen
+-------- https://twitter.com/intent/tweet/?text=Dame Jennifer Smith and Peter Riepenhausen Join BOD&amp;url=https://www.afiniti.com/news/detail/smith-and-riepenhausen-join-board-of-directors
+-------- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/smith-and-riepenhausen-join-board-of-directors&title=Dame Jennifer Smith and Peter Riepenhausen Join BOD.summary=null.&source=https://www.afiniti.com/news/detail/smith-and-riepenhausen-join-board-of-directors
+-------- https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/europes-digital-migration-during-covid-19-getting-past-the-broad-trends-and-averages
+-------- https://www.businessinsider.com/most-valuable-enterprise-technology-companies-2020-7
+-------- https://www.afiniti.com/team/dame-jennifer-smith
+------ https://www.afiniti.com/offices/lahore
+------ https://www.afiniti.com/offices/seoul
+------ https://www.afiniti.com/offices/mexico-city
+------- https://www.afiniti.com/team/ignacio-sagues
+-------- https://www.linkedin.com/in/ignacio-sagüés-pérez-a237941a
+------- https://www.afiniti.com/team/charly-lesgourgues
+-------- https://www.linkedin.com/in/charlylesgourgues
+------- https://www.afiniti.com/team/pedro-vera
+-------- https://www.linkedin.com/in/pedro-vera-mart%C3%ADnez-32b781128
+------- https://www.afiniti.com/team/carlos-kiyama
+-------- https://www.linkedin.com/in/ckiyama
+------- https://www.afiniti.com/team/david-aviles
+-------- https://www.linkedin.com/in/avilesdavid
+------- https://www.afiniti.com/team/maria-badillo
+-------- https://www.linkedin.com/in/maria-badillo-34b68459
+------- https://www.afiniti.com/team/alonso-aznar-mexico
+-------- https://www.linkedin.com/in/alonso-aznar-80026011b
+------ https://www.afiniti.com/offices/shenzhen
+------- https://www.afiniti.com/team/cheng-zuo
+------- https://www.afiniti.com/team/clement-fan
+------- https://www.afiniti.com/team/xuying-zhong
+-------- https://www.linkedin.com/in/xuying-zhong-180464138
+------- https://www.afiniti.com/team/chen-wei
+------- https://www.afiniti.com/team/tom-lu
+-------- https://www.linkedin.com/in/tom-lu-2603a58
+------- https://www.afiniti.com/team/sue-zhang
+------- https://www.afiniti.com/team/john-liu
+-------- https://www.linkedin.com/in/dr-john-y-liu-25235612
+------- https://www.afiniti.com/team/diana-hu
+------- https://www.afiniti.com/team/gordon-li
+------- https://www.afiniti.com/team/qin-zou
+------- https://www.afiniti.com/team/kaixuan-tang
+-------- https://www.linkedin.com/in/kaixuan-tang-b38495a4
+------ https://www.afiniti.com/offices/paris
+------- https://www.afiniti.com/team/yaron-zurr
+-------- https://www.linkedin.com/in/yaron-zurr-11a42
+------- https://www.afiniti.com/team/consuelo-remmert
+-------- https://www.linkedin.com/in/consuelo-remmert-2479765
+------- https://www.afiniti.com/team/jeff-tournier
+-------- https://www.linkedin.com/in/jean-francois-tournier-459445
+------- https://www.afiniti.com/team/guillaume-dupuy
+-------- https://www.linkedin.com/in/guillaumedupuy
+------- https://www.afiniti.com/team/jerome-de-castries
+-------- https://www.linkedin.com/in/jérôme-de-castries
+------- https://www.afiniti.com/team/cedric-croguennec
+-------- https://www.linkedin.com/in/cedriccroguennec
+------- https://www.afiniti.com/team/nicolas-gallot
+-------- https://www.linkedin.com/in/nicolasgallot
+------- https://www.afiniti.com/team/osman-masud
+-------- https://www.linkedin.com/in/osmanmasud
+------- https://www.afiniti.com/team/haifa-souid
+-------- https://www.linkedin.com/in/haifa-souid-75302720
+------- https://www.afiniti.com/team/yosra-boussaa
+-------- https://www.linkedin.com/in/yosra-boussaa-ba055016
+------- https://www.afiniti.com/team/eric-le-flour
+-------- https://www.linkedin.com/in/ericleflour
+------- https://www.afiniti.com/team/alix-gard
+-------- https://www.linkedin.com/in/alix-gard-07463a3a
+------ https://www.afiniti.com/offices/sao-paulo
+------- https://www.afiniti.com/team/marjorie-goichberg
+-------- https://www.linkedin.com/in/marjorie-goichberg-a6a387107
+------- https://www.afiniti.com/team/charles-monteux
+-------- https://www.linkedin.com/in/charles-monteux-0601a4
+------ https://www.afiniti.com/offices/karachi
+------ https://www.afiniti.com/offices/tokyo
+------ https://www.afiniti.com/offices/istanbul
+------- https://www.afiniti.com/team/fatih-bozdogan
+-------- https://www.linkedin.com/in/fatih-b-ab77b449
+------- https://www.afiniti.com/team/cihan-peker
+-------- https://www.linkedin.com/in/cihanpeker
+------- https://www.afiniti.com/team/mustafa-kirac
+-------- https://www.linkedin.com/in/mustafakirac
+------- https://www.afiniti.com/team/cecilia-braggiotti-istanbul
+-------- https://www.linkedin.com/in/cecilia-braggiotti-279249103
+------- https://www.afiniti.com/team/omer-akkentli
+-------- https://www.linkedin.com/in/omerakkentli
+------ https://www.afiniti.com/offices/sydney
+------- https://www.afiniti.com/team/graeme-provan
+-------- https://www.linkedin.com/in/provan
+------- https://www.afiniti.com/team/ali-mcdonald
+-------- https://www.linkedin.com/in/ali-mcdonald-06553720
+------- https://www.afiniti.com/team/-julie-bishop
+-------- https://www.linkedin.com/in/julieibishop
+------- https://www.afiniti.com/team/laurent-horrut
+-------- https://www.linkedin.com/in/laurenthorrut
+------- https://www.afiniti.com/team/richard-freudenstein
+-------- https://www.linkedin.com/in/richard-freudenstein-231797143
+------- https://www.afiniti.com/team/caroline-o'brien
+-------- https://www.linkedin.com/in/caroline-o-brien-5a124070
+------- https://www.afiniti.com/team/trung-nguyen
+-------- https://www.linkedin.com/in/trungnv
+------- https://www.afiniti.com/team/wyatt-roy
+-------- https://www.linkedin.com/in/wyattroy
+------ https://www.afiniti.com/offices/new-york
+------- https://www.afiniti.com/team/beatrice-york
+-------- https://www.linkedin.com/in/beatrice-york-b49433a3
+------- https://www.afiniti.com/team/-brad-brown
+-------- https://www.linkedin.com/in/bradfordtbrown
+------- https://www.afiniti.com/team/david-kroner
+-------- https://www.linkedin.com/in/davidekroner
+------- https://www.afiniti.com/team/chris-schraft
+-------- https://www.linkedin.com/in/christopher-schraft-2b48927
+------- https://www.afiniti.com/team/dustin-zhang
+-------- https://www.linkedin.com/in/dustin-z-610a951a9
+------- https://www.afiniti.com/team/juliadeboinville
+-------- https://www.linkedin.com/in/julia-de-boinville-985aa71b
+------- https://www.afiniti.com/team/maria-osorio
+-------- https://www.linkedin.com/in/maria-osorio-3181b928
+------- https://www.afiniti.com/team/michel-portenier-new-york
+-------- https://www.linkedin.com/in/michelportenier
+------- https://www.afiniti.com/team/fanny-heneine
+-------- https://www.linkedin.com/in/fanny-heneine-763502a3
+------- https://www.afiniti.com/team/henri-sejournet
+-------- https://www.linkedin.com/in/sejournet
+------- https://www.afiniti.com/team/tim-hager
+-------- https://www.linkedin.com/in/timothy-hager-27182b29
+------- https://www.afiniti.com/team/priya-sangameswaran
+-------- https://www.linkedin.com/in/priyasangameswaran
+------ https://www.afiniti.com/offices/milan
+------- https://www.afiniti.com/team/emanuele-tonini
+-------- https://www.linkedin.com/in/emanuele-tonini-45b0322
+------- https://www.afiniti.com/team/giorgia-scaparra
+-------- https://www.linkedin.com/in/giorgia-scaparra
+------- https://www.afiniti.com/team/gabriele-albini
+-------- https://www.linkedin.com/in/gabriele-albini-85100549
+------- https://www.afiniti.com/team/paolo-branno
+-------- https://www.linkedin.com/in/paolo-branno-29514b19
+------- https://www.afiniti.com/team/cosmin-radulescu
+-------- https://www.linkedin.com/in/cosminradulescu
+------- https://www.afiniti.com/team/vincenzo-giannone
+------- https://www.afiniti.com/team/atieh-karkhanehchi
+-------- https://www.linkedin.com/in/atieh-karkhanehchi
+------- https://www.afiniti.com/team/cecilia-braggiotti
+-------- https://www.linkedin.com/in/cecilia-braggiotti-279249103
+------- https://www.afiniti.com/team/andrea-greggia
+-------- https://www.linkedin.com/in/andreagreggia
+------- https://www.afiniti.com/team/pelin-cansu-ok
+-------- https://www.linkedin.com/in/pelin-cansu-ok
+------- https://www.afiniti.com/team/antonella-cimino
+-------- https://www.linkedin.com/in/cimino-antonella-a2484741
+------- https://www.afiniti.com/team/maurizio-conti
+-------- https://www.linkedin.com/in/maurizio-conti-09418aa
+------- https://www.afiniti.com/team/edoardo-sezzi
+-------- https://www.linkedin.com/in/edoardo-sezzi
+----- https://www.afiniti.com/team/samuel-logan
+------ https://www.linkedin.com/in/samuel-logan-38a06551
+---- https://www.linkedin.com/in/orlando-hampton-5840534
+--- https://www.bizjournals.com/washington/news/2018/10/25/this-d-c-based-unicorn-just-raised-130-million.html
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/stepping-out-of-your-comfort-zone
+--- https://www.wict.org/pages/default.aspx
+--- https://www.linkedin.com/pulse/stepping-out-your-comfort-zone-orlando-hampton/?published=t
+--- https://twitter.com/intent/tweet/?text="Stepping out of your comfort Zone." Some reflections on standing shoulder to shoulder.&amp;url=https://www.afiniti.com/news/detail/stepping-out-of-your-comfort-zone
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/stepping-out-of-your-comfort-zone&title="Stepping out of your comfort Zone." Some reflections on standing shoulder to shoulder..summary=null.&source=https://www.afiniti.com/news/detail/stepping-out-of-your-comfort-zone
+-- https://www.afiniti.com/news/detail/history-contact-center-infographic
+--- https://media.graphcms.com/b6F2zwZSUu4opI7Xfa9c
+--- https://www.afiniti.com/news/detail/alicia-richart-leads-afiniti-iberia
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/alicia-richart-leads-afiniti-iberia
+---- https://twitter.com/intent/tweet/?text=Alicia Richart to lead Afiniti’s Iberia operations&amp;url=https://www.afiniti.com/news/detail/alicia-richart-leads-afiniti-iberia
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/alicia-richart-leads-afiniti-iberia&title=Alicia Richart to lead Afiniti’s Iberia operations.summary=null.&source=https://www.afiniti.com/news/detail/alicia-richart-leads-afiniti-iberia
+---- https://www.afiniti.com/news/detail/afiniti-growing-bermuda-presence
+----- https://www.afiniti.com/team/john-snow
+----- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/afiniti-growing-bermuda-presence&title=Royal Gazette: Afiniti to bring 1000 staff to Bermuda.summary=null.&source=https://www.afiniti.com/news/detail/afiniti-growing-bermuda-presence
+----- https://www.afiniti.com/team/david-cameron
+------ https://www.linkedin.com/in/davidcameronofficial
+----- https://www.afiniti.com/video/how-it-works
+----- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/afiniti-growing-bermuda-presence
+----- https://www.afiniti.com/team/zia-chishti
+----- https://twitter.com/intent/tweet/?text=Royal Gazette: Afiniti to bring 1000 staff to Bermuda&amp;url=https://www.afiniti.com/news/detail/afiniti-growing-bermuda-presence
+----- https://www.royalgazette.com/international-business/business/article/20210112/afiniti-aims-to-have-1000-staff-in-bermuda
+----- https://www.afiniti.com/team/jose-maria-aznar
+---- https://www.afiniti.com/news/detail/ignite-worldwide
+----- https://twitter.com/intent/tweet/?text=Sparking interest in tech careers with Ignite Worldwide&amp;url=https://www.afiniti.com/news/detail/ignite-worldwide
+----- https://www.afiniti.com/team/holly-jones
+----- https://www.afiniti.com/team/caroline-mehta
+------ https://www.linkedin.com/in/caroline-mehta-3a99128
+----- https://www.igniteworldwide.org/2021/02/11/women-in-artificial-intelligence-field-trip-with-afiniti
+----- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/ignite-worldwide&title=Sparking interest in tech careers with Ignite Worldwide.summary=null.&source=https://www.afiniti.com/news/detail/ignite-worldwide
+----- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/ignite-worldwide
+----- https://www.igniteworldwide.org
+--- https://twitter.com/intent/tweet/?text=Infographic: The History of the Contact Center&amp;url=https://www.afiniti.com/news/detail/history-contact-center-infographic
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/history-contact-center-infographic
+--- https://www.royalgazette.com/year-in-review/article/20201231/businesses-fight-for-survival-but-insurance-market-thrives
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/history-contact-center-infographic&title=Infographic: The History of the Contact Center.summary=null.&source=https://www.afiniti.com/news/detail/history-contact-center-infographic
+--- https://www.afiniti.com/video/contact-centers-next-ten-years
+-- https://www.thestreet.com/video/tesla-ceo-elon-musk-should-be-ignored-on-artificial-intelligence-14664012
+-- http://www.expansion.com/directivos/2018/02/23/5a8ea36de5fdea3f2c8b4686.html
+-- https://www.youtube.com/watch?v=i9ZAcGtWFFs
+-- http://www.bbc.co.uk/news/technology-45219902
+-- https://www.afiniti.com/news/detail/wyatt-roy-on-the-constant-investor
+--- https://omny.fm/shows/the-constant-investor/wyatt-roy-afiniti/embed?style=artwork
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/wyatt-roy-on-the-constant-investor&title=Wyatt Roy Speaks with Alan Kohler on the Constant Investor.summary=.&source=https://www.afiniti.com/news/detail/wyatt-roy-on-the-constant-investor
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/wyatt-roy-on-the-constant-investor
+--- https://www.washingtonian.com/2018/09/20/tech-titans-2018-washingtons-top-tech-leaders
+--- https://twitter.com/intent/tweet/?text=Wyatt Roy Speaks with Alan Kohler on the Constant Investor&amp;url=https://www.afiniti.com/news/detail/wyatt-roy-on-the-constant-investor
+-- https://www.afiniti.com/news/detail/new-statesman-ai-in-healthcare
+--- https://www.wsj.com/articles/everyone-hates-customer-service-this-is-why-11564804882
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/new-statesman-ai-in-healthcare
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/new-statesman-ai-in-healthcare&title='How patterns can power better treatment' - Zia's piece in The New Statesman.summary=Zia Chishti writes about how artificial intelligence can play a key role in improving outcomes in healthcare.&source=https://www.afiniti.com/news/detail/new-statesman-ai-in-healthcare
+--- https://www.afiniti.com/news/detail/julie-bishop-joins-afiniti
+---- https://www.washingtonian.com/2019/10/03/tech-titans-2019-washingtons-top-tech-leaders
+---- https://www.afr.com/politics/federal/julie-bishop-joins-board-of-global-ai-firm-20190730-p52c66
+---- https://afiniti.com/team/zia-chishti
+---- https://www.afiniti.com/team/julie-bishop
+---- https://twitter.com/intent/tweet/?text=Julie Bishop joins Afiniti's Advisory Board&amp;url=https://www.afiniti.com/news/detail/julie-bishop-joins-afiniti
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/julie-bishop-joins-afiniti&title=Julie Bishop joins Afiniti's Advisory Board.summary=null.&source=https://www.afiniti.com/news/detail/julie-bishop-joins-afiniti
+---- https://www.elmundo.es/economia/actualidad-economica/2019/09/30/5d8dd3af21efa0222d8b45fd.html
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/julie-bishop-joins-afiniti
+--- https://www.newstatesman.com/spotlight/healthcare/2019/06/how-patterns-can-power-better-treatment
+--- https://twitter.com/intent/tweet/?text='How patterns can power better treatment' - Zia's piece in The New Statesman&amp;url=https://www.afiniti.com/news/detail/new-statesman-ai-in-healthcare
+--- https://www.afiniti.com/news/detail/vogue-codes-ai-panel
+---- https://www.elmundo.es/economia/actualidad-economica/2019/09/30/5d8dd3af21efa0222d8b45fd.html
+---- https://www.vogue.com.au/vogue-codes/news/4-things-to-know-about-artificial-intelligence/news-story/030b7731067b793c379d231a6733185d
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/vogue-codes-ai-panel&title=Effective AI requires diversity and teamwork, says VP Caroline O’Brien.summary=Effective AI requires diversity and teamwork, says Afiniti VP Caroline O’Brien.&source=https://www.afiniti.com/news/detail/vogue-codes-ai-panel
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/vogue-codes-ai-panel
+---- https://twitter.com/intent/tweet/?text=Effective AI requires diversity and teamwork, says VP Caroline O’Brien&amp;url=https://www.afiniti.com/news/detail/vogue-codes-ai-panel
+-- https://www.latribune.fr/technos-medias/telecoms/jerome-de-castries-une-affinite-pour-l-aventure-770173.html
+-- https://www.afiniti.com/news/detail/ai-regulation-oped
+--- https://twitter.com/intent/tweet/?text=What's the right amount of AI regulation?&amp;url=https://www.afiniti.com/news/detail/ai-regulation-oped
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/ai-regulation-oped&title=What's the right amount of AI regulation?.summary=Zac Hudson explains why artificial intelligence companies need sufficient room to experiment and grow.&source=https://www.afiniti.com/news/detail/ai-regulation-oped
+--- https://medium.com/@zachudson/whats-the-right-amount-of-regulation-for-ai-841a82467868
+--- https://www.afiniti.com/news/detail/afiniti-and-g6-press-release
+---- http://www.g6hospitality.com
+---- http://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.afiniti.com&esheet=51794082&newsitemid=20180424005832&lan=en-US&anchor=http%3A%2F%2Fwww.afiniti.com&index=4&md5=57429146b9c9a48c58bb5627575f2ea9
+---- http://www.staystudio6.com
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/afiniti-and-g6-press-release&title=Afiniti and G6 Hospitality Partner to Measurably Enhance Guest Experience Using Artificial Intelligence.summary=.&source=https://www.afiniti.com/news/detail/afiniti-and-g6-press-release
+---- http://www.afiniti.com
+---- http://www.motel6.com
+---- https://twitter.com/intent/tweet/?text=Afiniti and G6 Hospitality Partner to Measurably Enhance Guest Experience Using Artificial Intelligence&amp;url=https://www.afiniti.com/news/detail/afiniti-and-g6-press-release
+---- https://www.wsj.com/articles/afiniti-names-david-cameron-as-advisory-board-chairman-11559300400
+---- http://www.g6hospitality.com
+---- https://www.afiniti.com/news/detail/afiniti-strengthens-advisory-board
+----- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/afiniti-strengthens-advisory-board
+----- https://www.afiniti.com/news/detail/wsj-customer-service-algorithm-boosts-revenues
+------ https://twitter.com/intent/tweet/?text=WSJ: Customer-Service Algorithm Boosts Revenues&amp;url=https://www.afiniti.com/news/detail/wsj-customer-service-algorithm-boosts-revenues
+------ https://www.wsj.com/articles/customer-service-algorithm-boosts-revenues-11559899800
+------ https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/wsj-customer-service-algorithm-boosts-revenues&title=WSJ: Customer-Service Algorithm Boosts Revenues.summary=.&source=https://www.afiniti.com/news/detail/wsj-customer-service-algorithm-boosts-revenues
+------ https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/wsj-customer-service-algorithm-boosts-revenues
+----- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/afiniti-strengthens-advisory-board&title=Press Release: Afiniti strengthens Advisory Board, including appointment of David Cameron as Chair.summary=.&source=https://www.afiniti.com/news/detail/afiniti-strengthens-advisory-board
+----- https://twitter.com/intent/tweet/?text=Press Release: Afiniti strengthens Advisory Board, including appointment of David Cameron as Chair&amp;url=https://www.afiniti.com/news/detail/afiniti-strengthens-advisory-board
+----- https://www.newstatesman.com/2019/06/ghosts-machines-invisible-human-labour-behind-ai
+---- https://www.entrepreneur.com/franchises/category/hotel
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/afiniti-and-g6-press-release
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/ai-regulation-oped
+--- https://www.afiniti.com/news/detail/washingtonian-magazine-feature
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/washingtonian-magazine-feature&title=Washingtonian Magazine: Why This DC Artificial Intelligence Company Is Worth More Than $1 Billion.summary=.&source=https://www.afiniti.com/news/detail/washingtonian-magazine-feature
+---- https://www.washingtonian.com/2019/05/01/may-2019-our-favorite-parks
+---- https://www.aligntech.com
+---- https://www.washingtonian.com/2019/05/06/why-dc-artificial-intelligence-company-afiniti-worth-more-than-1-billion
+---- https://twitter.com/intent/tweet/?text=Washingtonian Magazine: Why This DC Artificial Intelligence Company Is Worth More Than $1 Billion&amp;url=https://www.afiniti.com/news/detail/washingtonian-magazine-feature
+---- https://www.wsj.com/articles/afiniti-names-david-cameron-as-advisory-board-chairman-11559300400
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/washingtonian-magazine-feature
+--- https://www.afiniti.com/news/detail/david-cameron-joins-afiniti
+---- http://https://www.afiniti.com/team/david-cameron
+---- http://www.afiniti.com
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/david-cameron-joins-afiniti&title=Press Release: David Cameron to join Afiniti as Chair of Advisory Board.summary=.&source=https://www.afiniti.com/news/detail/david-cameron-joins-afiniti
+---- https://www.wsj.com/articles/afiniti-names-david-cameron-as-advisory-board-chairman-11559300400
+---- http://https://www.afiniti.com/team/zia-chishti-director
+---- https://twitter.com/intent/tweet/?text=Press Release: David Cameron to join Afiniti as Chair of Advisory Board&amp;url=https://www.afiniti.com/news/detail/david-cameron-joins-afiniti
+---- http://https://www.afiniti.com/team?filter=Advisory
+---- https://www.afiniti.com/news/detail/afiniti-strengthens-advisory-board
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/david-cameron-joins-afiniti
+-- https://www.afiniti.com/news/detail/history-of-artificial-intelligence-infographic
+--- https://www.royalgazette.com/year-in-review/article/20201231/businesses-fight-for-survival-but-insurance-market-thrives
+--- https://twitter.com/intent/tweet/?text=Infographic: The History of Artificial Intelligence&amp;url=https://www.afiniti.com/news/detail/history-of-artificial-intelligence-infographic
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/history-of-artificial-intelligence-infographic
+--- https://www.afiniti.com/news/detail/alicia-richart-leads-afiniti-iberia
+--- https://media.graphcms.com/cNJs4HZZTpG4t2NlKmFC
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/history-of-artificial-intelligence-infographic&title=Infographic: The History of Artificial Intelligence.summary=null.&source=https://www.afiniti.com/news/detail/history-of-artificial-intelligence-infographic
+-- http://www.afr.com/business/lunch-with-the-afr-zia-chishti-founder-afiniti-20180515-h103zd
+-- https://www.afiniti.com/news/detail/bringing-afiniti-to-aws-cloud
+--- https://twitter.com/intent/tweet/?text=Bringing Behavioral Pairing to the AWS Cloud&amp;url=https://www.afiniti.com/news/detail/bringing-afiniti-to-aws-cloud
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/bringing-afiniti-to-aws-cloud
+--- https://www.nojitter.com/contact-center-customer-experience/assessing-covid-19s-enduring-impacts-contact-centers
+--- https://www.afiniti.com/team/michel-portenier
+--- https://www.gartner.com/document/3970368
+--- https://www.afiniti.com/news/detail/john-liu-becomes-ceo-china
+---- https://twitter.com/intent/tweet/?text=Dr. John Liu joins Afiniti as China CEO&amp;url=https://www.afiniti.com/news/detail/john-liu-becomes-ceo-china
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/john-liu-becomes-ceo-china
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/john-liu-becomes-ceo-china&title=Dr. John Liu joins Afiniti as China CEO.summary=null.&source=https://www.afiniti.com/news/detail/john-liu-becomes-ceo-china
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/bringing-afiniti-to-aws-cloud&title=Bringing Behavioral Pairing to the AWS Cloud.summary=Afiniti's behavioral pairing is now available on AWS cloud, and has joined the Amazon Partner Network.&source=https://www.afiniti.com/news/detail/bringing-afiniti-to-aws-cloud
+--- https://www.afiniti.com/aws
+---- https://aws.amazon.com/connect
+---- https://aws.amazon.com/marketplace/pp/B08DTDJQSB
+--- https://partners.amazonaws.com/partners/0010L00001rqOzyQAE/Afiniti
+--- https://www.afiniti.com/news/detail/consuelo-remmert-joins-afiniti
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/consuelo-remmert-joins-afiniti&title=Afiniti welcomes Consuelo Remmert as General Manager.summary=null.&source=https://www.afiniti.com/news/detail/consuelo-remmert-joins-afiniti
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/consuelo-remmert-joins-afiniti
+---- https://twitter.com/intent/tweet/?text=Afiniti welcomes Consuelo Remmert as General Manager&amp;url=https://www.afiniti.com/news/detail/consuelo-remmert-joins-afiniti
+-- https://www.ft.com/content/88135a47-ad4a-477f-a644-3ce71219cd1f
+-- https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/02/25/three-key-considerations-for-implementing-ai-in-your-business/#2c7253b13c0b
+-- https://www.afiniti.com/news/detail/rise-of-the-essential-worker
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/rise-of-the-essential-worker
+--- https://www.linkedin.com/pulse/rise-essential-worker-orlando-hampton
+--- https://www.afiniti.com/covid-19/insights-call-centres
+---- https://www.afiniti.com/covid-19/let-us-help
+---- https://www.afiniti.com/covid-19-best-practices
+----- https://www.afiniti.com/covid-19/insights
+------ https://www.afiniti.com/covid-19/insights-usa
+------- https://media.afiniti.com/docs/Afiniti-COVID19-Insights-Paper-7th-April-2020.pdf
+------ https://www.afiniti.com/covid-19/insights-usa
+------ https://www.afiniti.com/covid-19/insights-china
+------- https://media.afiniti.com/docs/Afiniti-COVID19-Insights-Paper-7th-April-2020.pdf
+------ https://www.afiniti.com/covid-19/insights-china
+------ https://www.afiniti.com/covid-19/insights-china
+------ https://www.afiniti.com/covid-19/insights-uk
+------- https://media.afiniti.com/docs/Afiniti-COVID19-Insights-Paper-7th-April-2020.pdf
+------ https://www.afiniti.com/covid-19/insights-uk
+------ https://www.afiniti.com/covid-19/insights-uk
+------ https://www.afiniti.com/covid-19/insights-usa
+----- https://www.who.int/docs/default-source/coronaviruse/getting-workplace-ready-for-covid-19.pdf?sfvrsn=359a81e7_6
+---- https://www.afiniti.com/covid-19-resources
+---- https://www.afiniti.com/covid-19-resources
+---- https://media.afiniti.com/docs/Afiniti-COVID-19-Call-Centers.pdf
+---- https://www.afiniti.com/covid-19/let-us-help
+--- https://www.linkedin.com/pulse/rise-essential-worker-orlando-hampton
+--- https://twitter.com/intent/tweet/?text=The Rise of the Essential Worker&amp;url=https://www.afiniti.com/news/detail/rise-of-the-essential-worker
+--- https://www.cisa.gov/sites/default/files/publications/CISA_Guidance_on_the_Essential_Critical_Infrastructure_Workforce_Version_2.0_Updated.pdf
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/rise-of-the-essential-worker&title=The Rise of the Essential Worker.summary=During the COVID-19 global pandemic, we have witnessed the rise of a new term used as a catchall to describe the people who are putting their lives on the line to provide service to the masses. Introducing the “Essential Worker.”.&source=https://www.afiniti.com/news/detail/rise-of-the-essential-worker
+--- https://www.afiniti.com/team/orlando-hampton
+-- https://implemented.simplecast.com/episodes/afiniti-KqQ_F05A
+-- https://www.afiniti.com/news/detail/zia-speaks-to-the-economist
+--- https://www.afiniti.com/news/detail/avaya-partnership-throwback
+---- https://twitter.com/intent/tweet/?text=Avaya Partnership Throwback. A roundup of the partnership kick off in May.&amp;url=https://www.afiniti.com/news/detail/avaya-partnership-throwback
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/avaya-partnership-throwback
+---- https://www.facebook.com/hashtag/avaya?source=feed_text&__xts__%5B0%5D=68.ARC1WRUSiOLe6sRvTvVJ1Y_yrf2T9sklrmKVR04eu6tIzcYwv5g75uzc8bczbYPzfhJ98b1WlgdvCsyFH8AEOspFQ_0y5m7knOej9KAdNnh8rAv7uIluELIESTJ-yUQFOqcS0mQh2DAL1XvUKP1fW0ewlT2uVQmPBKtUvQ7e2N2qKb1myitc9xOyTcasv2wmXisF0BxsLAk-nehSvOa0T6nC&__tn__=%2ANK-R
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/avaya-partnership-throwback&title=Avaya Partnership Throwback. A roundup of the partnership kick off in May..summary=.&source=https://www.afiniti.com/news/detail/avaya-partnership-throwback
+--- https://twitter.com/intent/tweet/?text=Zia speaks to The Economist about the Role of Artificial Intelligence in Business &amp;url=https://www.afiniti.com/news/detail/zia-speaks-to-the-economist
+--- https://www.afiniti.com/news/detail/has-the-ai-industry-become-far-too-ambiguous
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/has-the-ai-industry-become-far-too-ambiguous&title="Has the AI industry become far too ambiguous?" Zia talks to Ticky Fullerton at Sky News Australia.summary=null.&source=https://www.afiniti.com/news/detail/has-the-ai-industry-become-far-too-ambiguous
+---- https://www.heraldsun.com.au/news/national/the-ai-industry-has-become-far-too-ambiguous-afiniti-chairman/video/41ffeed8a1c2975d52591365c3805b76
+---- https://twitter.com/intent/tweet/?text="Has the AI industry become far too ambiguous?" Zia talks to Ticky Fullerton at Sky News Australia&amp;url=https://www.afiniti.com/news/detail/has-the-ai-industry-become-far-too-ambiguous
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/has-the-ai-industry-become-far-too-ambiguous
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/zia-speaks-to-the-economist&title=Zia speaks to The Economist about the Role of Artificial Intelligence in Business .summary=.&source=https://www.afiniti.com/news/detail/zia-speaks-to-the-economist
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/zia-speaks-to-the-economist
+-- https://www.afiniti.com/news/detail/customer-expectations-infographic
+--- https://www.afiniti.com/news/detail/john-liu-becomes-ceo-china
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/customer-expectations-infographic
+--- https://twitter.com/intent/tweet/?text=Infographic: Customer Preferences for Business Communications&amp;url=https://www.afiniti.com/news/detail/customer-expectations-infographic
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/customer-expectations-infographic&title=Infographic: Customer Preferences for Business Communications.summary=null.&source=https://www.afiniti.com/news/detail/customer-expectations-infographic
+-- https://www.hospitalitynet.org/opinion/4082963.html
+-- https://www.ft.com/content/47111fce-d0a4-11e8-9a3c-5d5eac8f1ab4
+-- https://www.afiniti.com/news/detail/epoca-negocios-interviews-our-ceo-zia-chishti
+--- https://www.afiniti.com/news/detail/afiniti-in-il-sole-24-ore
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/afiniti-in-il-sole-24-ore&title=“Afiniti, the €1.3 billion algorithm company that makes a call-center more humane” – Il Sole 24 Ore.summary=null.&source=https://www.afiniti.com/news/detail/afiniti-in-il-sole-24-ore
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/afiniti-in-il-sole-24-ore
+---- https://twitter.com/intent/tweet/?text=“Afiniti, the €1.3 billion algorithm company that makes a call-center more humane” – Il Sole 24 Ore&amp;url=https://www.afiniti.com/news/detail/afiniti-in-il-sole-24-ore
+---- https://www.nojitter.com/avaya-afiniti-bringing-ai-contact-center-near-you
+---- http://www.ilsole24ore.com/art/finanza-e-mercati/2018-02-25/afiniti-e-l-algoritmo-13-miliardi-che-rende-piu-umano-call-center-140935.shtml?uuid=AEQjFk6D&fromSearch&refresh_ce=1
+---- https://www.afiniti.com/news/detail/wyatt-roy-sky-news
+----- https://twitter.com/intent/tweet/?text=Wyatt Roy Speaks to Sky News&amp;url=https://www.afiniti.com/news/detail/wyatt-roy-sky-news
+----- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/wyatt-roy-sky-news
+----- https://www.afiniti.com/news/detail/avaya-and-afiniti-partnership
+------ http://www.avaya.com
+------ https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/avaya-and-afiniti-partnership&title= Avaya and Afiniti Partner to Bring Unique and Proven, AI-Driven Behavioral Pairing to the Contact Center.summary=null.&source=https://www.afiniti.com/news/detail/avaya-and-afiniti-partnership
+------ https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/avaya-and-afiniti-partnership
+------ https://twitter.com/intent/tweet/?text= Avaya and Afiniti Partner to Bring Unique and Proven, AI-Driven Behavioral Pairing to the Contact Center&amp;url=https://www.afiniti.com/news/detail/avaya-and-afiniti-partnership
+----- https://www.afiniti.com/news/detail/mit-ai-innovator-ceremony:-zia-chishti-wins-lifetime-achievement-award
+------ https://twitter.com/intent/tweet/?text=MIT AI Innovator Ceremony: Zia Chishti wins Lifetime Achievement Award&amp;url=https://www.afiniti.com/news/detail/mit-ai-innovator-ceremony:-zia-chishti-wins-lifetime-achievement-award
+------ https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/mit-ai-innovator-ceremony:-zia-chishti-wins-lifetime-achievement-award
+------ http://dailytelescope.com/pr/mit-ai-innovator-award-celebrates-top-achievers-in-four-categories-better-world-rising-star-trailblazer-and-lifetime-achievement-at-ceremony-in-san-francisco/148089
+------ https://www.youtube.com/watch?v=6fhVtNrH2io
+------ https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/mit-ai-innovator-ceremony:-zia-chishti-wins-lifetime-achievement-award&title=MIT AI Innovator Ceremony: Zia Chishti wins Lifetime Achievement Award.summary=.&source=https://www.afiniti.com/news/detail/mit-ai-innovator-ceremony:-zia-chishti-wins-lifetime-achievement-award
+----- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/wyatt-roy-sky-news&title=Wyatt Roy Speaks to Sky News.summary=null.&source=https://www.afiniti.com/news/detail/wyatt-roy-sky-news
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/epoca-negocios-interviews-our-ceo-zia-chishti&title=Época NEGÓCIOS interviews our CEO, Zia Chishti.summary=.&source=https://www.afiniti.com/news/detail/epoca-negocios-interviews-our-ceo-zia-chishti
+--- https://www.afiniti.com/news/detail/zia-chishti-awarded-the-sitara-e-imtiaz-by-president-mamnoon-hussain
+---- https://www.nojitter.com/avaya-afiniti-bringing-ai-contact-center-near-you
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/zia-chishti-awarded-the-sitara-e-imtiaz-by-president-mamnoon-hussain
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/zia-chishti-awarded-the-sitara-e-imtiaz-by-president-mamnoon-hussain&title=Zia Chishti awarded the Sitara-e-Imtiaz by President Mamnoon Hussain.summary=null.&source=https://www.afiniti.com/news/detail/zia-chishti-awarded-the-sitara-e-imtiaz-by-president-mamnoon-hussain
+---- https://twitter.com/intent/tweet/?text=Zia Chishti awarded the Sitara-e-Imtiaz by President Mamnoon Hussain&amp;url=https://www.afiniti.com/news/detail/zia-chishti-awarded-the-sitara-e-imtiaz-by-president-mamnoon-hussain
+---- https://www.afiniti.com/news/detail/wyatt-roy-sky-news
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/epoca-negocios-interviews-our-ceo-zia-chishti
+--- https://viewer.aemmobile.adobe.com/index.html#project/b13e062b-f147-416c-936f-c7f1a5f1c5f2/view/edicao_132_fevereiro_2018/article/negocios___-dj-40cf38df-3793-4d9e-beb7-d1f7ce6c5b53
+--- https://twitter.com/intent/tweet/?text=Época NEGÓCIOS interviews our CEO, Zia Chishti&amp;url=https://www.afiniti.com/news/detail/epoca-negocios-interviews-our-ceo-zia-chishti
+- https://www.afiniti.com/news/detail/deloitte-fast-500
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/deloitte-fast-500&title=Afiniti Named to Deloitte's 2019 Technology Fast 500.summary=null.&source=https://www.afiniti.com/news/detail/deloitte-fast-500
+-- https://www2.deloitte.com/us/en/pages/technology-media-and-telecommunications/articles/fast500-winners.html
+-- https://www.afiniti.com/news/detail/avaya-engage-phoenix-recap
+--- https://www.afiniti.com/team/michel-portenier
+--- https://www.accenture.com/us-en/about/company/coronavirus-responsive-customer-service
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/avaya-engage-phoenix-recap
+--- https://twitter.com/intent/tweet/?text=A milestone week at Avaya Engage Phoenix&amp;url=https://www.afiniti.com/news/detail/avaya-engage-phoenix-recap
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/avaya-engage-phoenix-recap&title=A milestone week at Avaya Engage Phoenix.summary=null.&source=https://www.afiniti.com/news/detail/avaya-engage-phoenix-recap
+--- https://www.avaya.com/en/about-avaya/newsroom/pr-us-200327
+--- https://news.avaya.com/avaya-engage-2020
+--- https://www.afiniti.com/video/introducing-airo
+--- https://g6hospitality.com
+-- https://www.afiniti.com/news/detail/introducing-airo-press-release
+--- https://www.accenture.com/us-en/about/company/coronavirus-responsive-customer-service
+--- https://www.avaya.com/en
+--- https://www.avaya.com/en/products/contact-center
+--- https://www.avaya.com
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/introducing-airo-press-release
+--- https://twitter.com/intent/tweet/?text=Introducing Avaya AI Routing with Afiniti AiRo&amp;url=https://www.afiniti.com/news/detail/introducing-airo-press-release
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/introducing-airo-press-release&title=Introducing Avaya AI Routing with Afiniti AiRo.summary=null.&source=https://www.afiniti.com/news/detail/introducing-airo-press-release
+-- https://www2.deloitte.com/content/dam/Deloitte/us/Documents/technology-media-telecommunications/us-tmt-fast-500-2019-winners-list.pdf
+-- https://www.afiniti.com/news/detail/cb-insights-us-of-ai
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/cb-insights-us-of-ai
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/cb-insights-us-of-ai&title=Afiniti in CB Insights "US of AI Startups" Map.summary=CB Insights ranks Afiniti as the most well-funded AI startup in its United States of Artificial Intelligence Startups map.&source=https://www.afiniti.com/news/detail/cb-insights-us-of-ai
+--- https://www.cbinsights.com/research/artificial-intelligence-startup-us-map
+--- https://twitter.com/intent/tweet/?text=Afiniti in CB Insights "US of AI Startups" Map&amp;url=https://www.afiniti.com/news/detail/cb-insights-us-of-ai
+--- https://www.cbinsights.com/research/artificial-intelligence-startup-us-map
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/deloitte-fast-500
+-- https://twitter.com/intent/tweet/?text=Afiniti Named to Deloitte's 2019 Technology Fast 500&amp;url=https://www.afiniti.com/news/detail/deloitte-fast-500
+- https://rockpaperscissors.ai
+- https://www.afiniti.com/news/detail/cb-insights-unveils-second-annual-ai-100-companies-at-a-ha
+-- https://www.afiniti.com/news/detail/epoca-negocios-interviews-our-ceo-zia-chishti
+-- https://www.cbinsights.com/company-mosaic
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/cb-insights-unveils-second-annual-ai-100-companies-at-a-ha&title=Afiniti Named to the 2018 AI 100, Highlighting Advancements in Artificial Intelligence and Enterprise Solutions.summary=.&source=https://www.afiniti.com/news/detail/cb-insights-unveils-second-annual-ai-100-companies-at-a-ha
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/cb-insights-unveils-second-annual-ai-100-companies-at-a-ha
+-- http://www.expansion.com/directivos/2018/02/23/5a8ea36de5fdea3f2c8b4686.html
+-- https://www.nojitter.com/afiniti-taps-ai-optimize-customer-agent-pairing
+-- https://twitter.com/intent/tweet/?text=Afiniti Named to the 2018 AI 100, Highlighting Advancements in Artificial Intelligence and Enterprise Solutions&amp;url=https://www.afiniti.com/news/detail/cb-insights-unveils-second-annual-ai-100-companies-at-a-ha
+- https://www.afiniti.com/offices
+- https://www.afiniti.com/partners
+- https://www.afiniti.com/board-of-directors
+-- https://www.afiniti.com/team/larry-babbio
+--- https://www.linkedin.com/in/larrybabbio
+-- https://www.afiniti.com/team/hasnain-aslam
+--- https://www.linkedin.com/in/hasnainaslam
+- https://www.afiniti.com/partners/data-partners
+-- https://www.afiniti.com/videos/data
+- https://www.afiniti.com/legal/patents
+-- https://privacy.truste.com/privacy-seal/validation?rid=db1f0b22-44f9-4ded-800c-93038aeaba15
+- https://www.afiniti.com/videos
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/MIT-Club-AI-Panel-Afiniti-Cisco-Cresta
+-- https://twitter.com/intent/tweet/?text=Can Afiniti deploy anywhere?&amp;url=https://www.afiniti.com/video/can-afiniti-deploy-anywhere
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/telephony-platforms-support&title=Afiniti: Telephony Agnostic?.summary=Afiniti is truly telephony system agnostic. We work with both large and small players in the telephony space..&source=https://www.afiniti.com/video/telephony-platforms-support
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/airo-in-depth&title=An In-Depth Look at AiRo.summary=Afiniti CEO, Head of Data, and Data & Analytics Lead share their perspectives on our first-of-its-kind new product..&source=https://www.afiniti.com/video/airo-in-depth
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/zia-speaks-to-the-economist&title=Zia: Babbage Podcast.summary=Zia speaks to The Economist about the Role of Artificial Intelligence in Business, and how executives need to look for proven value delivered when choosing a solution..&source=https://www.afiniti.com/video/zia-speaks-to-the-economist
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/what-is-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-in-insurance&title=Afiniti in Insurance.summary=Afiniti Enterprise Behavioral Pairing™ has been highly successful in Financial Services and Insurance, delivering both incremental increases in sales and reductions in cancellations..&source=https://www.afiniti.com/video/afiniti-in-insurance
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/ai-for-healthcare-companies
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/airo-and-you&title=How AiRo Can Help You.summary=Julian Lopez Portillo, Head of Data at Afiniti, shares his excitement and explains how AiRo is making AI accessible to small and medium-sized enterprises..&source=https://www.afiniti.com/video/airo-and-you
+-- https://www.afiniti.com/videos/airo
+-- https://twitter.com/intent/tweet/?text=Partnerships Overview&amp;url=https://www.afiniti.com/video/partnerships-overview
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/airo-intro
+-- https://twitter.com/intent/tweet/?text=How it works&amp;url=https://www.afiniti.com/video/-how-it-works
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-family&title=Afiniti’s Family.summary=Welcome to the Afiniti Family..&source=https://www.afiniti.com/video/afiniti-family
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/native-integration
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/diversity-in-data
+-- https://twitter.com/intent/tweet/?text=How does Afiniti avoid machine lag?&amp;url=https://www.afiniti.com/video/machine-lag
+-- https://twitter.com/intent/tweet/?text=Why is Afiniti an easy choice for businesses?&amp;url=https://www.afiniti.com/video/easy-choice-for-businesses
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/data-safety
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/ai-advice&title=AI Advice.summary=Many organizations have not yet embarked on their first voyage into data analytics and AI. Here are a few pearls of wisdom for executives looking to build an AI solution into their enterprise..&source=https://www.afiniti.com/video/ai-advice
+-- https://twitter.com/intent/tweet/?text=Is there a catch?&amp;url=https://www.afiniti.com/video/is-there-a-catch
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/the-history-of-ai&title=History of AI.summary=.&source=https://www.afiniti.com/video/the-history-of-ai
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/technology-companies-and-patents
+-- https://twitter.com/intent/tweet/?text=Introducing AiRo&amp;url=https://www.afiniti.com/video/introducing-airo
+-- https://www.afiniti.com/videos/overview
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/our-culture
+-- https://twitter.com/intent/tweet/?text=What does Afiniti do?&amp;url=https://www.afiniti.com/video/what-does-afiniti-do
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-healthcare&title=Afiniti's Healthcare Product.summary=Afiniti's use of artificial intelligence in the healthcare industry encourages preventative care, increasing the likelihood that people take advantage of opportunities in the present to preclude more serious issues down the road..&source=https://www.afiniti.com/video/afiniti-healthcare
+-- https://twitter.com/intent/tweet/?text=How does Afiniti avoid machine lag?&amp;url=https://www.afiniti.com/video/machine-lag
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/what-is-data&title=What is Data?.summary=There is a lot of talk about data and its usage. What is data, and what is the difference between structured and unstructured data?.&source=https://www.afiniti.com/video/what-is-data
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-engage-2018
+-- https://twitter.com/intent/tweet/?text=SBR and PBR vs EBP™&amp;url=https://www.afiniti.com/video/product-comparison
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/ai-and-hype&title=AI Hype.summary=Despite the hype, the latest incarnations of AI are not much better at solving complex, real-world problems than their ancestors were three decades ago. So, what is AI good for?.&source=https://www.afiniti.com/video/ai-and-hype
+-- https://twitter.com/intent/tweet/?text=Afiniti's Future in Contact Centers&amp;url=https://www.afiniti.com/video/future-in-contact-centers
+-- https://twitter.com/intent/tweet/?text=Word Association: Revenue Team&amp;url=https://www.afiniti.com/video/word-association-revenue-team
+-- https://twitter.com/intent/tweet/?text=AWS: Integration with Amazon Connect&amp;url=https://www.afiniti.com/video/aws-and-afiniti
+-- https://twitter.com/intent/tweet/?text=Afiniti in Telco&amp;url=https://www.afiniti.com/video/afiniti-in-telcos
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/colin-afiniti-highlight&title=An Afiniti Highlight.summary=Colin Miles, Senior VP Global Deployment at Afiniti who previously purchased Afiniti as a client, shares the highlight of his time at Afiniti. .&source=https://www.afiniti.com/video/colin-afiniti-highlight
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/the-history-of-afiniti&title=The History of Afiniti.summary=Afiniti’s founder and CEO, Zia Chishti, wrote the first lines of our code at his kitchen table. Some of those still exist in the code today. Welcome to Afiniti..&source=https://www.afiniti.com/video/the-history-of-afiniti
+-- https://www.afiniti.com/videos/product
+-- https://twitter.com/intent/tweet/?text=What is Afiniti's culture like?&amp;url=https://www.afiniti.com/video/our-culture
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/ai-in-healthcare
+-- https://twitter.com/intent/tweet/?text=Fanny Heneine - Global Data&amp;url=https://www.afiniti.com/video/fanny-heneine-global-data
+-- https://twitter.com/intent/tweet/?text=Afiniti and Contact Center Operations&amp;url=https://www.afiniti.com/video/impact-on-call-center-operations
+-- https://twitter.com/intent/tweet/?text=Afiniti's Future in Contact Centers&amp;url=https://www.afiniti.com/video/future-in-contact-centers
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-smart-ai
+-- https://twitter.com/intent/tweet/?text=How does Afiniti measure impact?&amp;url=https://www.afiniti.com/video/how-afiniti-measures-impact
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-in-telcos
+-- https://twitter.com/intent/tweet/?text=Afiniti: Telephony Agnostic?&amp;url=https://www.afiniti.com/video/telephony-platforms-support
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/partnerships-overview&title=Partnerships Overview.summary=Afiniti partners with over 60 companies in the contact center value chain in order to drive customer success.&source=https://www.afiniti.com/video/partnerships-overview
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/nick-honeyman-brown&title= Nick Honeyman Brown - GM, UK.summary=What is it like to work at Afiniti? Nick Honeyman Brown, General Manager, UK, shares his take..&source=https://www.afiniti.com/video/nick-honeyman-brown
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/the-future-of-ai&title=The Future of AI.summary=AI and Machine Learning have clearly started to permeate all sectors of industry and society, but are they here to stay? Afiniti Founder and CEO Zia Chishti share his take on the future of AI..&source=https://www.afiniti.com/video/the-future-of-ai
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-technology
+-- https://twitter.com/intent/tweet/?text=G6 CIO Jessie Burgess on Afiniti's precisely measurable results&amp;url=https://www.afiniti.com/video/G6-on-precisely-measurable-results
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/sky-news-interviews-zia
+-- https://twitter.com/intent/tweet/?text=Pay For Performance&amp;url=https://www.afiniti.com/video/pay-for-performance
+-- https://twitter.com/intent/tweet/?text=Avaya: The Afiniti Partnership&amp;url=https://www.afiniti.com/video/avaya-afiniti-partnership
+-- https://twitter.com/intent/tweet/?text=Zia & Ticky Fullerton&amp;url=https://www.afiniti.com/video/sky-news-interviews-zia
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/why-join-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-healthcare
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/business-distruption&title=Does Afiniti disrupt business operations?.summary=Afiniti does not disrupt existing business operations, making the adoption of our technology an easy win for companies hoping to maximize benefit and minimize disruption..&source=https://www.afiniti.com/video/business-distruption
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/future-of-healthcare
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/native-integration-inbound
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-family
+-- https://twitter.com/intent/tweet/?text=What is AI?&amp;url=https://www.afiniti.com/video/what-is-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/women-at-afiniti&title=What is it like being a woman at Afiniti?.summary=Julia de Boinville, VP Business Developement, gives a look into Afiniti culture..&source=https://www.afiniti.com/video/women-at-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/precisely-measurable-results
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-revenue-overview&title=Avaya: Revenue Overview.summary=Jim Geary, Avaya’s General Manager for the Americas, discusses how the Avaya Afiniti partnership will impact each business and its current and prospective clients..&source=https://www.afiniti.com/video/avaya-revenue-overview
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/technology-companies-and-patents&title=Technology Companies and Patents.summary=Cory McCaffrey, Associate General Counsel Intellectual Property at Afiniti, sheds light on the importance of patents in the technology industry..&source=https://www.afiniti.com/video/technology-companies-and-patents
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/native-integration-outbound
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-afiniti-link-in-detail&title=Avaya: Afiniti Link In Detail.summary=The Afiniti Link allows Afiniti to be natively installed on all Avaya products. Product Manager Bill Jolicoeur talks in more detail about how this works..&source=https://www.afiniti.com/video/avaya-afiniti-link-in-detail
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/fanny-heneine-global-data&title=Fanny Heneine - Global Data.summary=What is it like to work at Afiniti? Data and Analytics Lead Fanny Heneine shares her take..&source=https://www.afiniti.com/video/fanny-heneine-global-data
+-- https://twitter.com/intent/tweet/?text=What is AiRo?&amp;url=https://www.afiniti.com/video/airo-intro
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-deployment-steps
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/case-study-vodafone
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/contact-centers-next-ten-years&title=Contact Centers: The Next Ten Years.summary=Contact centers are in the midst of a revolution. Afiniti Founder and CEO, Zia Chishti, shares his perspective on their current development..&source=https://www.afiniti.com/video/contact-centers-next-ten-years
+-- https://twitter.com/intent/tweet/?text=The Afiniti Business Model&amp;url=https://www.afiniti.com/video/business-model
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-a-good-investment
+-- https://twitter.com/intent/tweet/?text=Afiniti's Technology&amp;url=https://www.afiniti.com/video/afiniti-technology
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/G6-on-precisely-measurable-results&title=G6 CIO Jessie Burgess on Afiniti's precisely measurable results.summary=Jessie Burgess, EVP & CIO of G6 Hospitality, explains how Afiniti's behavioral pairing technology optimized existing calls to increase annual room reservations by 4%..&source=https://www.afiniti.com/video/G6-on-precisely-measurable-results
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-afiniti-partnership
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/media-and-telecom-2020&title=Zia: Media and Telecoms 2020.summary=CEO Zia Chishti gives an eye-opening demo of behavioral pairing technology in customer service at the Media and Telecoms 2020 and Beyond conference, hosted by Deloitte and Enders Analysis..&source=https://www.afiniti.com/video/media-and-telecom-2020
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/20-questions-revenue-team
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/aws-and-afiniti&title=AWS: Integration with Amazon Connect.summary=Afiniti can be deployed on Amazon Connect in minutes to optimize customer interactions in the cloud contact center environment.&source=https://www.afiniti.com/video/aws-and-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-a-good-investment
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/precisely-measurable-results&title=Afiniti: Precisely Measurable Results.summary=The process behind determining incremental value involves outcome attribution, comparison of ON and OFF cycle data, and results reporting collaboration between Afiniti and our clients..&source=https://www.afiniti.com/video/precisely-measurable-results
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-unique&title=What makes Afiniti unique?.summary=Nick Honeyman Brown, MD of Comercial and Strategy, explains what differentiators makes Afiniti so unique..&source=https://www.afiniti.com/video/afiniti-unique
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/data-misconceptions
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-in-insurance
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/the-nuance-of-afiniti&title=The Nuance of Afiniti's Technology.summary=Afiniti's technology accounts for continuously changing client environments, agent and caller optimal pairings, and agent and caller availability..&source=https://www.afiniti.com/video/the-nuance-of-afiniti
+-- https://twitter.com/intent/tweet/?text=An Afiniti Highlight&amp;url=https://www.afiniti.com/video/colin-afiniti-highlight
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/partnerships-overview
+-- https://twitter.com/intent/tweet/?text=What makes Afiniti great?&amp;url=https://www.afiniti.com/video/what-makes-afiniti-great
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-technology&title=Afiniti's Technology.summary=Zia Chishti, Afiniti CEO and Founder, shares his explanation of Afiniti's technology..&source=https://www.afiniti.com/video/afiniti-technology
+-- https://twitter.com/intent/tweet/?text=How does Afiniti keep data safe?&amp;url=https://www.afiniti.com/video/data-safety
+-- https://twitter.com/intent/tweet/?text=What are Afiniti's Deployment Steps?&amp;url=https://www.afiniti.com/video/afiniti-deployment-steps
+-- https://twitter.com/intent/tweet/?text=Afiniti: Smart AI&amp;url=https://www.afiniti.com/video/afiniti-smart-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/our-culture&title=What is Afiniti's culture like?.summary=Afiniti has top talent across departments and the globe. Colin Miles, Senior VP Global Deployment at Afiniti, takes pride in our collaborative spirit and cross-team efficiency..&source=https://www.afiniti.com/video/our-culture
+-- https://twitter.com/intent/tweet/?text=Heliskiing in Pakistan&amp;url=https://www.afiniti.com/video/pakistan-heliski
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-brand-launch&title=Afiniti Brand Launch.summary=In 2017, we sat down with Zia to get his view on the new Afiniti brand, and his perspectives on our name change from SATMAP to Afiniti..&source=https://www.afiniti.com/video/afiniti-brand-launch
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-series
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/business-model
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-smart-ai&title=Afiniti: Smart AI.summary=Afiniti is smart AI, not just processing power..&source=https://www.afiniti.com/video/afiniti-smart-ai
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/aws-and-afiniti
+-- https://twitter.com/intent/tweet/?text=Data at Afiniti&amp;url=https://www.afiniti.com/video/data-at-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/pakistan-heliski
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/to-all-those-who-will&title=To all those who will.summary=Celebrating all the women in science as we look into the future with hope and joy, seeing and dreaming of the bright women across the world, growing up with passion for science..&source=https://www.afiniti.com/video/to-all-those-who-will
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/the-history-of-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/what-does-afiniti-do
+-- https://twitter.com/intent/tweet/?text=AI In Healthcare&amp;url=https://www.afiniti.com/video/ai-in-healthcare
+-- https://twitter.com/intent/tweet/?text=Afiniti in Marketing&amp;url=https://www.afiniti.com/video/afiniti-in-marketing
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/is-there-a-catch&title=Is there a catch?.summary=Though it may seem too good to be true, Afiniti is the real deal. Learn why Nick Honeyman Brown, MD of Comercial and Strategy, purchased the Afiniti product while at Virgin Media, and why he works at Afiniti today..&source=https://www.afiniti.com/video/is-there-a-catch
+-- https://twitter.com/intent/tweet/?text=Avaya: Afiniti Link In Detail&amp;url=https://www.afiniti.com/video/avaya-afiniti-link-in-detail
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/sky-news-wyatt-roy&title=Sky News: Wyatt Roy.summary=Wyatt Roy, the youngest person in history elected to the Australian Parliament and Australia's first Minister for Innovation, speaks with Ticky Fullerton of Sky News Australia about Afiniti..&source=https://www.afiniti.com/video/sky-news-wyatt-roy
+-- https://twitter.com/intent/tweet/?text=G6 Hospitality: Why we chose Afiniti&amp;url=https://www.afiniti.com/video/why-we-chose-afiniti
+-- https://twitter.com/intent/tweet/?text=Avaya: The Afiniti Partnership&amp;url=https://www.afiniti.com/video/avaya-afiniti-partnership
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/zia-sitara-e-imtiaz
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-afiniti-link-overview&title=Avaya: Afiniti Link Overview.summary=Afiniti is now installed on all Avaya products via the Afiniti Link, which will greatly benefit current and future clients..&source=https://www.afiniti.com/video/avaya-afiniti-link-overview
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-ai&title=AI at Afiniti.summary=Ittai Kan, Chief Scientist, explains how Afiniti's AI allows global enterprises to identify subtle and valuable behavioral patterns to better pair their customers with employees..&source=https://www.afiniti.com/video/afiniti-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-afiniti-partnership&title=Avaya: The Afiniti Partnership.summary=Avaya and Afiniti have a first in class strategic partnership. Here are some highlights from the kick-off meeting in Miami..&source=https://www.afiniti.com/video/avaya-afiniti-partnership
+-- https://twitter.com/intent/tweet/?text=How does Afiniti use Artificial Intelligence?&amp;url=https://www.afiniti.com/video/how-does-afiniti-use-ai
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/machine-lag
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/women-in-technology&title=Women in Technology.summary=Julia De Boinville, Neha Sangani, Beatrice York, and Mark Meghezzi talk about diversity of voices in technology..&source=https://www.afiniti.com/video/women-in-technology
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-technology
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/why-we-chose-afiniti
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/zia-at-bloomberg&title=Zia at Bloomberg.summary=Zia sat down with Francine Lacqua of Bloomberg News to talk about monetizing AI, and why chatbots are unlikely to have the impact a number of commentators have predicted..&source=https://www.afiniti.com/video/zia-at-bloomberg
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/media-and-telecom-2020
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/data-safety&title=How does Afiniti keep data safe?.summary=At Afiniti, we take data security seriously..&source=https://www.afiniti.com/video/data-safety
+-- https://www.afiniti.com/videos/ai
+-- https://twitter.com/intent/tweet/?text=Zia: Morgan Stanley TMT Conference&amp;url=https://www.afiniti.com/video/zia-in-morgan-stanely-tmt-conference
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/zia-at-bloomberg
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/easy-choice-for-businesses
+-- https://twitter.com/intent/tweet/?text=AI Advice&amp;url=https://www.afiniti.com/video/ai-advice
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/next-steps-for-afiniti-series
+-- https://www.afiniti.com/videos/on-the-road
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/contact-centers-next-ten-years
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/imitation-advice&title=Imitation Advice.summary=As the AI industry grows, it is important to differentiate technology solutions from technology hype. Here's some of our advice: if you can't prove the value of a solution, then it's not true Behavioral Pairing™..&source=https://www.afiniti.com/video/imitation-advice
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/uk-industries&title=What's a segment of our UK industries?.summary=In the UK, we currently work in the telco sector, in insurance, and in roadside assistance..&source=https://www.afiniti.com/video/uk-industries
+-- https://twitter.com/intent/tweet/?text=What is the Afiniti Series?&amp;url=https://www.afiniti.com/video/afiniti-series
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-in-telcos&title=Afiniti in Telco.summary=Telecommunication businesses are some of the largest users of Afiniti Enterprise Behavioral Pairing™. Find out more in the following video..&source=https://www.afiniti.com/video/afiniti-in-telcos
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afinitis-future
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-in-finance&title=Afiniti in Finance.summary=Afiniti EBP™ has been highly successful in Financial Services, delivering an average increase in sales of 6%..&source=https://www.afiniti.com/video/afiniti-in-finance
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/future-of-healthcare&title=Imagine the Future.summary=Imagine a future where healthcare is transformed for the better by artificial intelligence. In fact, it's already happening today. Afiniti uses Behavioral Pairing™ to improve the quality of healthcare, so that you have more time with the ones you love..&source=https://www.afiniti.com/video/future-of-healthcare
+-- https://twitter.com/intent/tweet/?text=Evolution of AI in Business&amp;url=https://www.afiniti.com/video/history-of-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/sky-news-interviews-zia&title=Zia & Ticky Fullerton.summary=Zia Chishti spoke with Ticky Fullerton of Sky News Australia about all things Afiniti..&source=https://www.afiniti.com/video/sky-news-interviews-zia
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/telephony-platforms-support&title=Afiniti: Telephony Agnostic?.summary=Afiniti is truly telephony system agnostic. We work with both large and small players in the telephony space..&source=https://www.afiniti.com/video/telephony-platforms-support
+-- https://twitter.com/intent/tweet/?text=What's a segment of our UK industries?&amp;url=https://www.afiniti.com/video/uk-industries
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/uk-industries
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/G6-on-precisely-measurable-results
+-- https://twitter.com/intent/tweet/?text=History of AI&amp;url=https://www.afiniti.com/video/the-history-of-ai
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/women-at-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/telephony-platforms-support
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/what-makes-afiniti-great
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/airo-overview&title=AiRo: An Overview.summary=AiRo brings self-service, AI-driven Behavioral Pairing™  technology to organizations with fewer than 300 agents..&source=https://www.afiniti.com/video/airo-overview
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/can-afiniti-deploy-anywhere&title=Can Afiniti deploy anywhere?.summary=Afiniti has experience deploying with Avaya, Cisco, Genesys, and Aspect, as well as with smaller players in the telephony space..&source=https://www.afiniti.com/video/can-afiniti-deploy-anywhere
+-- https://twitter.com/intent/tweet/?text=Afiniti in Healthcare&amp;url=https://www.afiniti.com/video/afiniti-in-healthcare
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-afiniti-link-overview
+-- https://twitter.com/intent/tweet/?text=The History of Afiniti&amp;url=https://www.afiniti.com/video/the-history-of-afiniti
+-- https://twitter.com/intent/tweet/?text=How AiRo Can Help You&amp;url=https://www.afiniti.com/video/airo-and-you
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-university
+-- https://twitter.com/intent/tweet/?text=Zia: Babbage Podcast&amp;url=https://www.afiniti.com/video/zia-speaks-to-the-economist
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/impact-on-call-center-operations
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/how-does-afiniti-use-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/easy-choice-for-businesses&title=Why is Afiniti an easy choice for businesses?.summary=Afiniti's precise measurability sets us apart from other machine learning applications and provides a clear value-add for businesses hoping to harness the power of AI..&source=https://www.afiniti.com/video/easy-choice-for-businesses
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/diversity-in-data&title=Diversity in Data.summary=Julian Lopez Portillo, Head of Data at Afiniti, speaks to the value of diversity in data, as well as in our data team itself..&source=https://www.afiniti.com/video/diversity-in-data
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/how-does-afiniti-use-ai&title=How does Afiniti use Artificial Intelligence?.summary=Ittai Kan, Chief Scientist at Afiniti, and his daughter, Rachel Kan, explain how Afiniti uses artificial intelligence..&source=https://www.afiniti.com/video/how-does-afiniti-use-ai
+-- https://twitter.com/intent/tweet/?text=What are the next steps for the Afiniti Series?&amp;url=https://www.afiniti.com/video/next-steps-for-afiniti-series
+-- https://twitter.com/intent/tweet/?text=What are Afiniti's Deployment Steps?&amp;url=https://www.afiniti.com/video/afiniti-deployment-steps
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/machine-lag&title=How does Afiniti avoid machine lag?.summary=Afiniti has both the machine learning capability to process large amounts of data each day and the human data team to ensure that we stay ahead of potential machine lag at all times..&source=https://www.afiniti.com/video/machine-lag
+-- https://www.afiniti.com/videos/healthcare
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/future-in-contact-centers
+-- https://twitter.com/intent/tweet/?text=Native Integration: Outbound&amp;url=https://www.afiniti.com/video/native-integration-outbound
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/next-steps-for-afiniti-series&title=What are the next steps for the Afiniti Series?.summary=An update from Afiniti on our internal and external Women in Leadership event series..&source=https://www.afiniti.com/video/next-steps-for-afiniti-series
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-a-good-investment&title=Afiniti: A Good Investment?.summary=Our clients frequently cite Afiniti as the best technology investment they've ever made..&source=https://www.afiniti.com/video/afiniti-a-good-investment
+-- https://twitter.com/intent/tweet/?text=How does Afiniti measure impact?&amp;url=https://www.afiniti.com/video/how-afiniti-measures-impact
+-- https://twitter.com/intent/tweet/?text=Zia: Media and Telecoms 2020&amp;url=https://www.afiniti.com/video/media-and-telecom-2020
+-- https://www.afiniti.com/videos/afiniti-life
+-- https://twitter.com/intent/tweet/?text=The Nuance of Afiniti's Technology&amp;url=https://www.afiniti.com/video/the-nuance-of-afiniti
+-- https://twitter.com/intent/tweet/?text=Happy Holidays from Afiniti&amp;url=https://www.afiniti.com/video/holiday-fun
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-in-finance
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/machine-lag&title=How does Afiniti avoid machine lag?.summary=Afiniti has both the machine learning capability to process large amounts of data each day and the human data team to ensure that we stay ahead of potential machine lag at all times..&source=https://www.afiniti.com/video/machine-lag
+-- https://twitter.com/intent/tweet/?text=Afiniti's Technology&amp;url=https://www.afiniti.com/video/afiniti-technology
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/ai-and-jobs&title=AI and Jobs.summary=There is a common theory that the explosion of AI and Machine Learning techniques is going to have an impact on the human job market. Here's our view on the subject..&source=https://www.afiniti.com/video/ai-and-jobs
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-in-marketing
+-- https://twitter.com/intent/tweet/?text=Native Integration: Inbound&amp;url=https://www.afiniti.com/video/native-integration-inbound
+-- https://twitter.com/intent/tweet/?text=Afiniti in Banking&amp;url=https://www.afiniti.com/video/afiniti-in-banking
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-brand-launch
+-- https://twitter.com/intent/tweet/?text=Afiniti: A Good Investment?&amp;url=https://www.afiniti.com/video/afiniti-a-good-investment
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-afiniti-partnership
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afinitis-future&title=Afiniti's Future.summary=Zia Chishti, Afiniti CEO and Founder, shares his excitement about what's to come for Afiniti..&source=https://www.afiniti.com/video/afinitis-future
+-- https://twitter.com/intent/tweet/?text=20 Questions: Revenue Team&amp;url=https://www.afiniti.com/video/20-questions-revenue-team
+-- https://twitter.com/intent/tweet/?text=Avaya: Afiniti Link Overview&amp;url=https://www.afiniti.com/video/avaya-afiniti-link-overview
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/business-model
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/holiday-fun&title=Happy Holidays from Afiniti.summary=Season's greetings from our Afiniti family to yours! Wishing you a holiday season filled with joy and laughter..&source=https://www.afiniti.com/video/holiday-fun
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-in-healthcare&title=Afiniti in Healthcare.summary=Major healthcare providers rely on Afiniti's technology to decrease medical claims costs, increase adherence, and improve patients' overall wellness..&source=https://www.afiniti.com/video/afiniti-in-healthcare
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/business-model&title=The Afiniti Business Model.summary=The Afiniti business model sets us apart: because our technology is precisely measurable, we only charge clients a share of the value we've delivered. Afiniti does not charge for hardware, software, professional services, or maintenance..&source=https://www.afiniti.com/video/business-model
+-- https://twitter.com/intent/tweet/?text=How It Works&amp;url=https://www.afiniti.com/video/how-it-works
+-- https://www.afiniti.com/videos/partners
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/data-at-afiniti
+-- https://twitter.com/intent/tweet/?text=AI at Afiniti&amp;url=https://www.afiniti.com/video/afiniti-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-deployment-steps&title=What are Afiniti's Deployment Steps?.summary=Zia Chishti, Afiniti CEO and Founder, and Ava Lear, Gymnast Champion, discuss Afiniti's deployment steps..&source=https://www.afiniti.com/video/afiniti-deployment-steps
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/anthony-engage-2019&title=Anthony Tuggle: Engage 2019.summary=Anthony Tuggle, VP of Sales at AT&T, joined Afiniti CEO and Founder Zia Chishti on stage at Engage 2019..&source=https://www.afiniti.com/video/anthony-engage-2019
+-- https://twitter.com/intent/tweet/?text=To all those who will&amp;url=https://www.afiniti.com/video/to-all-those-who-will
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/how-afiniti-measures-impact&title=How does Afiniti measure impact?.summary=Fanny Heneine, Data & Analytics Lead at Afiniti, elucidates the ON vs. OFF measurement system at Afiniti..&source=https://www.afiniti.com/video/how-afiniti-measures-impact
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/20-questions-revenue-team&title=20 Questions: Revenue Team.summary=Whilst the Revenue Team was in Washington D.C. for their account reviews, we asked for a few minutes of their time to ask them some questions. What's your go-to karaoke song?.&source=https://www.afiniti.com/video/20-questions-revenue-team
+-- https://twitter.com/intent/tweet/?text=The Nuance of Afiniti's Technology&amp;url=https://www.afiniti.com/video/the-nuance-of-afiniti
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/product-comparison&title=SBR and PBR vs EBP™.summary=Afiniti operates at a much deeper and more comprehensive level than skill and performance based routing do. This is because we optimize each individual interaction rather than broad categories of skill type or execution..&source=https://www.afiniti.com/video/product-comparison
+-- https://twitter.com/intent/tweet/?text=Does Afiniti disrupt business operations?&amp;url=https://www.afiniti.com/video/business-distruption
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-series&title=What is the Afiniti Series?.summary=The Afiniti Series began as an opportunity to bring incredible women from different organizations together..&source=https://www.afiniti.com/video/afiniti-series
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/ai-and-jobs
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-in-banking&title=Afiniti in Banking.summary=Banking is a newer market for Afiniti and has an average 6% increase in sales..&source=https://www.afiniti.com/video/afiniti-in-banking
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-afiniti-link-in-detail
+-- https://twitter.com/intent/tweet/?text=Avaya: Revenue Overview&amp;url=https://www.afiniti.com/video/avaya-revenue-overview
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/data-choice
+-- https://twitter.com/intent/tweet/?text=AiRo: An Overview&amp;url=https://www.afiniti.com/video/airo-overview
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/the-nuance-of-afiniti
+-- https://twitter.com/intent/tweet/?text=How can healthcare companies use AI?&amp;url=https://www.afiniti.com/video/ai-for-healthcare-companies
+-- https://twitter.com/intent/tweet/?text=G6 Hospitality's Jessie Burgess at Avaya Engage 2020&amp;url=https://www.afiniti.com/video/jessie-burgess-avaya-engage
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/patents&title=Afiniti's Patents.summary=Afiniti has patents around the world protecting technologies including our core processing techniques, interaction models, and precise measurability..&source=https://www.afiniti.com/video/patents
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/imitation-advice
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/case-study-vodafone&title=Vodafone Hungary: Case Study.summary=Head of Customer Care at Vodafone Hungary, Péter Major, talks about Afiniti and its impact at Vodafone Hungary..&source=https://www.afiniti.com/video/case-study-vodafone
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-engage-2018&title=Zia: Avaya Engage Keynote 2018.summary=Zia was the keynote speaker at Avaya Engage Mexico 2018. Here is his presentation about the value of Afiniti's precisely measurable AI solution, which is now natively installed on all Avaya products..&source=https://www.afiniti.com/video/avaya-engage-2018
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/women-in-technology
+-- https://twitter.com/intent/tweet/?text= Nick Honeyman Brown - GM, UK&amp;url=https://www.afiniti.com/video/nick-honeyman-brown
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/what-is-ai&title=What is AI?.summary=Zia Chishti, Afiniti CEO and Founder, shares his explanation of AI..&source=https://www.afiniti.com/video/what-is-ai
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/jessie-burgess-avaya-engage
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/trends-in-healthcare&title=Trends in Healthcare.summary=Healthcare is constantly evolving. Two of its greatest current trends are increasing automation, which lowers costs for patients and doctors while preserving quality of care, and increasing data analysis, which is made possible by electronic records and AI that can identify patterns and validate diagnoses..&source=https://www.afiniti.com/video/trends-in-healthcare
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/next-steps-healthcare&title=Afiniti Healthcare: The Next Steps.summary=John Birrer, Chief of Staff at Afiniti, dives into possible next steps for Afiniti Healthcare, such as prescription mail order, medication interactions, and provider claims..&source=https://www.afiniti.com/video/next-steps-healthcare
+-- https://www.afiniti.com/videos/industries-optimized
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-a-good-investment&title=Afiniti: A Good Investment?.summary=Our clients frequently cite Afiniti as the best technology investment they've ever made..&source=https://www.afiniti.com/video/afiniti-a-good-investment
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/zia-in-morgan-stanely-tmt-conference&title=Zia: Morgan Stanley TMT Conference.summary=Zia Chishti shares Afiniti's story and his views on AI at Morgan Stanley's Technology, Media, and Telecom Conference in 2020..&source=https://www.afiniti.com/video/zia-in-morgan-stanely-tmt-conference
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-ski-trip-pakistan
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/what-makes-afiniti-great&title=What makes Afiniti great?.summary=Colin Miles, Senior VP Global Deployment at Afiniti who previously purchased Afiniti as a client, shares his firsthand experience with our culture and results..&source=https://www.afiniti.com/video/what-makes-afiniti-great
+-- https://twitter.com/intent/tweet/?text=The Future of AI&amp;url=https://www.afiniti.com/video/the-future-of-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/tom-inskip-and-tara-dunning&title=Avaya: Revenue Partnership.summary=Tara Dunning and Thomas Inskip met up after the Avaya Afiniti Partnership kicks off in May 2018 to discuss the excitement that the new partnership is bringing to both companies..&source=https://www.afiniti.com/video/tom-inskip-and-tara-dunning
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/airo-overview
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/how-it-works
+-- https://twitter.com/intent/tweet/?text=Data: Common Misconceptions&amp;url=https://www.afiniti.com/video/data-misconceptions
+-- https://twitter.com/intent/tweet/?text=Afiniti Brand Launch&amp;url=https://www.afiniti.com/video/afiniti-brand-launch
+-- https://twitter.com/intent/tweet/?text=Afiniti's Patents&amp;url=https://www.afiniti.com/video/patents
+-- https://twitter.com/intent/tweet/?text=An In-Depth Look at AiRo&amp;url=https://www.afiniti.com/video/airo-in-depth
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/history-of-ai
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/word-association-revenue-team
+-- https://twitter.com/intent/tweet/?text=Contact Centers: A Manager's Perspective&amp;url=https://www.afiniti.com/video/call-center-managers
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/native-integration
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-unique
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/holiday-fun
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-engage-2019&title=Zia: Avaya Engage Keynote 2019.summary=AT&T's Anthony Tuggle and Afiniti's Zia Chishti spoke about working together to deliver better customer service and improve the quality of jobs at Engage Austin..&source=https://www.afiniti.com/video/avaya-engage-2019
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-in-marketing&title=Afiniti in Marketing.summary=Afiniti Enterprise Behavioral Pairing™ can redefine the way businesses look at Marketing. The precisely measurable impact Afiniti delivers is what makes our technology so unique and powerful; measurability has a positive effect on Marketeers' performance margins and can drive overall revenue boosts of up to 6%..&source=https://www.afiniti.com/video/afiniti-in-marketing
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/zia-sitara-e-imtiaz&title=Zia: Sitara-e-Imtiaz.summary=We were thrilled that our CEO, Zia Chishti, was awarded the Sitara-e-Imtiaz, or “Star of Excellence”, by the then President Mamnoon Hussain in March 2018, as part of Pakistan’s National Day celebrations..&source=https://www.afiniti.com/video/zia-sitara-e-imtiaz
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/native-integration&title=Native Integration with Afiniti.summary=Fanny Heneine, Data & Analytics Lead at Afiniti, explains how native integration cuts integrating time down from an estimated 80 days to as few as 4..&source=https://www.afiniti.com/video/native-integration
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/the-nuance-of-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/the-history-of-ai
+-- https://twitter.com/intent/tweet/?text=Technology Companies and Patents&amp;url=https://www.afiniti.com/video/technology-companies-and-patents
+-- https://twitter.com/intent/tweet/?text=Afiniti Healthcare: The Next Steps&amp;url=https://www.afiniti.com/video/next-steps-healthcare
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/data-misconceptions&title=Data: Common Misconceptions.summary=Afiniti prioritizes security while maximizing the value customers and clients receive from each other..&source=https://www.afiniti.com/video/data-misconceptions
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/how-it-works&title=How It Works.summary=At Afiniti, we’ve built a way to Pair Better™. Wondering how it works? Watch our animation to discover more about the unique artificial intelligence and machine learning strategies Afiniti uses to create precisely measurable value. .&source=https://www.afiniti.com/video/how-it-works
+-- https://twitter.com/intent/tweet/?text=Afiniti in Insurance&amp;url=https://www.afiniti.com/video/afiniti-in-insurance
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/fanny-heneine-global-data
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/word-association-revenue-team&title=Word Association: Revenue Team.summary=Whilst the Revenue Team was in Washington D.C. for their account reviews, we asked them to play word association. What's the first thing that comes to mind when I say….&source=https://www.afiniti.com/video/word-association-revenue-team
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/patents
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/what-does-afiniti-do&title=What does Afiniti do?.summary=William Armstrong, Superhero Aficionado, and Marje Armstrong, Head of Investor Relations at Afiniti, explain what Afiniti does..&source=https://www.afiniti.com/video/what-does-afiniti-do
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/call-center-managers
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-afiniti-partnership&title=Avaya: The Afiniti Partnership.summary=Avaya and Afiniti have a first in class strategic partnership. Here are some highlights from the kick-off meeting in Miami..&source=https://www.afiniti.com/video/avaya-afiniti-partnership
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/product-comparison
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/colin-afiniti-highlight
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/to-all-those-who-will
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-engage-2019
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/next-steps-healthcare
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/impact-on-call-center-operations&title=Afiniti and Contact Center Operations.summary=Afiniti has zero operational impact on contact centers and we constantly monitor our performance to ensure that we respect existing operational conditions..&source=https://www.afiniti.com/video/impact-on-call-center-operations
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/-how-it-works
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-revenue-overview
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-inception&title=Afiniti Inception.summary=null.&source=https://www.afiniti.com/video/afiniti-inception
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/anthony-engage-2019
+-- https://twitter.com/intent/tweet/?text=Imagine the Future&amp;url=https://www.afiniti.com/video/future-of-healthcare
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/airo-in-depth
+-- https://twitter.com/intent/tweet/?text=Afiniti in Finance&amp;url=https://www.afiniti.com/video/afiniti-in-finance
+-- https://twitter.com/intent/tweet/?text=Avaya: Revenue Partnership&amp;url=https://www.afiniti.com/video/tom-inskip-and-tara-dunning
+-- https://twitter.com/intent/tweet/?text=Afiniti’s Family&amp;url=https://www.afiniti.com/video/afiniti-family
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/client-data
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/pay-for-performance
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/sky-news-wyatt-roy
+-- https://twitter.com/intent/tweet/?text=What is Data?&amp;url=https://www.afiniti.com/video/what-is-data
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/pakistan-heliski&title=Heliskiing in Pakistan.summary=Heliskiing has found a new home in Pakistan..&source=https://www.afiniti.com/video/pakistan-heliski
+-- https://twitter.com/intent/tweet/?text=AI Hype&amp;url=https://www.afiniti.com/video/ai-and-hype
+-- https://twitter.com/intent/tweet/?text=Zia at Bloomberg&amp;url=https://www.afiniti.com/video/zia-at-bloomberg
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/the-future-of-ai
+-- https://twitter.com/intent/tweet/?text=Afiniti's Healthcare Product&amp;url=https://www.afiniti.com/video/afiniti-healthcare
+-- https://twitter.com/intent/tweet/?text=Is there a catch?&amp;url=https://www.afiniti.com/video/is-there-a-catch
+-- https://twitter.com/intent/tweet/?text=Native Integration with Afiniti&amp;url=https://www.afiniti.com/video/native-integration
+-- https://twitter.com/intent/tweet/?text=Native Integration with Afiniti&amp;url=https://www.afiniti.com/video/native-integration
+-- https://twitter.com/intent/tweet/?text=Women in Technology&amp;url=https://www.afiniti.com/video/women-in-technology
+-- https://www.afiniti.com/videos/business-model
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-technology&title=Afiniti's Technology.summary=Zia Chishti, Afiniti CEO and Founder, shares his explanation of Afiniti's technology..&source=https://www.afiniti.com/video/afiniti-technology
+-- https://twitter.com/intent/tweet/?text=What makes Afiniti unique?&amp;url=https://www.afiniti.com/video/afiniti-unique
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/how-afiniti-measures-impact&title=How does Afiniti measure impact?.summary=Fanny Heneine, Data & Analytics Lead at Afiniti, elucidates the ON vs. OFF measurement system at Afiniti..&source=https://www.afiniti.com/video/how-afiniti-measures-impact
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/why-join-afiniti&title=Why join Afiniti?.summary=Nick Honeyman Brown, MD of Comercial and Strategy, shares his Afiniti story..&source=https://www.afiniti.com/video/why-join-afiniti
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/-how-it-works&title=How it works.summary=Over 140 patents describe the unique artificial intelligence and machine learning strategies Afiniti uses to create measurable value. .&source=https://www.afiniti.com/video/-how-it-works
+-- https://twitter.com/intent/tweet/?text=Zia: Sitara-e-Imtiaz&amp;url=https://www.afiniti.com/video/zia-sitara-e-imtiaz
+-- https://www.afiniti.com/videos/university
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/impact-on-call-center-operations
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/trends-in-healthcare
+-- https://twitter.com/intent/tweet/?text=Client Data&amp;url=https://www.afiniti.com/video/client-data
+-- https://twitter.com/intent/tweet/?text=The Benefits of Choice&amp;url=https://www.afiniti.com/video/data-choice
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/airo-intro&title=What is AiRo?.summary=AiRo is a self-service tool for small and medium businesses looking to harness the power of AI..&source=https://www.afiniti.com/video/airo-intro
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/what-is-data
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/machine-lag
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/telephony-platforms-support
+-- https://twitter.com/intent/tweet/?text=Sky News: Wyatt Roy&amp;url=https://www.afiniti.com/video/sky-news-wyatt-roy
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/data-choice&title=The Benefits of Choice.summary=The more choice our algorithms have, the more optimal the pairs that they can create..&source=https://www.afiniti.com/video/data-choice
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/tom-inskip-and-tara-dunning
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-in-banking
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/impact-on-call-center-operations&title=Afiniti and Contact Center Operations.summary=Afiniti has zero operational impact on contact centers and we constantly monitor our performance to ensure that we respect existing operational conditions..&source=https://www.afiniti.com/video/impact-on-call-center-operations
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/future-in-contact-centers&title=Afiniti's Future in Contact Centers.summary=Afiniti's future optimizations in contact centers will expand beyond phone calls to all channels in a business, including emails and messaging services..&source=https://www.afiniti.com/video/future-in-contact-centers
+-- https://twitter.com/intent/tweet/?text=Data Security at Afiniti&amp;url=https://www.afiniti.com/video/data-security-at-afiniti
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/history-of-ai&title=Evolution of AI in Business.summary=In the last thirty years, we’ve moved from validating choices with paper and calculators to making decisions based on artificial intelligence. Track the evolution of AI in business with Afiniti founder, Zia Chishti..&source=https://www.afiniti.com/video/history-of-ai
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/data-security-at-afiniti&title=Data Security at Afiniti.summary=Afiniti does not take data out of client environments. We are blind to data, and our technology simply uses the data that customers have already shared with our clients' companies..&source=https://www.afiniti.com/video/data-security-at-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-inception
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/ai-in-healthcare&title=AI In Healthcare.summary=null.&source=https://www.afiniti.com/video/ai-in-healthcare
+-- https://twitter.com/intent/tweet/?text=What is it like being a woman at Afiniti?&amp;url=https://www.afiniti.com/video/women-at-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-in-healthcare
+-- https://www.afiniti.com/videos/data
+-- https://twitter.com/intent/tweet/?text=Afiniti: A Good Investment?&amp;url=https://www.afiniti.com/video/afiniti-a-good-investment
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/future-in-contact-centers
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-ai
+-- https://twitter.com/intent/tweet/?text=Afiniti and Contact Center Operations&amp;url=https://www.afiniti.com/video/impact-on-call-center-operations
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/zia-speaks-to-the-economist
+-- https://twitter.com/intent/tweet/?text=Why join Afiniti?&amp;url=https://www.afiniti.com/video/why-join-afiniti
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/the-nuance-of-afiniti&title=The Nuance of Afiniti's Technology.summary=Afiniti's technology accounts for continuously changing client environments, agent and caller optimal pairings, and agent and caller availability..&source=https://www.afiniti.com/video/the-nuance-of-afiniti
+-- https://twitter.com/intent/tweet/?text=Zia: Avaya Engage Keynote 2018&amp;url=https://www.afiniti.com/video/avaya-engage-2018
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/is-there-a-catch
+-- https://twitter.com/intent/tweet/?text=Contact Centers: The Next Ten Years&amp;url=https://www.afiniti.com/video/contact-centers-next-ten-years
+-- https://twitter.com/intent/tweet/?text=Zia: Avaya Engage Keynote 2018&amp;url=https://www.afiniti.com/video/avaya-engage-2018
+-- https://twitter.com/intent/tweet/?text=Afiniti's Future&amp;url=https://www.afiniti.com/video/afinitis-future
+-- https://www.afiniti.com/videos/testimonials
+-- https://twitter.com/intent/tweet/?text=Afiniti: Telephony Agnostic?&amp;url=https://www.afiniti.com/video/telephony-platforms-support
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/ai-advice
+-- https://twitter.com/intent/tweet/?text=Imitation Advice&amp;url=https://www.afiniti.com/video/imitation-advice
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/native-integration-outbound&title=Native Integration: Outbound.summary=Native integration reduces deployment time and effort by 70%, allowing companies to start optimizing outbound calls to their customers sooner..&source=https://www.afiniti.com/video/native-integration-outbound
+-- https://twitter.com/intent/tweet/?text=Afiniti Ski Trip&amp;url=https://www.afiniti.com/video/afiniti-ski-trip-pakistan
+-- https://twitter.com/intent/tweet/?text=MIT Club AI Panel with Afiniti, Cisco, and Cresta&amp;url=https://www.afiniti.com/video/MIT-Club-AI-Panel-Afiniti-Cisco-Cresta
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afiniti-deployment-steps
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-ski-trip-pakistan&title=Afiniti Ski Trip.summary=A look back at Afiniti's 2017 heli-skiing adventure in the Karakoram mountains of Pakistan..&source=https://www.afiniti.com/video/afiniti-ski-trip-pakistan
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/is-there-a-catch
+-- https://twitter.com/intent/tweet/?text=Zia: Avaya Engage Keynote 2019&amp;url=https://www.afiniti.com/video/avaya-engage-2019
+-- https://twitter.com/intent/tweet/?text=Afiniti University&amp;url=https://www.afiniti.com/video/afiniti-university
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/can-afiniti-deploy-anywhere
+-- https://twitter.com/intent/tweet/?text=Anthony Tuggle: Engage 2019&amp;url=https://www.afiniti.com/video/anthony-engage-2019
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/call-center-managers&title=Contact Centers: A Manager's Perspective.summary=Afiniti's technology has zero impact on existing call center operations..&source=https://www.afiniti.com/video/call-center-managers
+-- https://twitter.com/intent/tweet/?text=Diversity in Data&amp;url=https://www.afiniti.com/video/diversity-in-data
+-- https://twitter.com/intent/tweet/?text=Afiniti's Future&amp;url=https://www.afiniti.com/video/afinitis-future
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/client-data&title=Client Data.summary=Data is integral to our models' ability to identify behavioral patterns. Without it, creating the best pairs for our clients and their customers would not be possible..&source=https://www.afiniti.com/video/client-data
+-- https://twitter.com/intent/tweet/?text=Vodafone Hungary: Case Study&amp;url=https://www.afiniti.com/video/case-study-vodafone
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/avaya-engage-2018&title=Zia: Avaya Engage Keynote 2018.summary=Zia was the keynote speaker at Avaya Engage Mexico 2018. Here is his presentation about the value of Afiniti's precisely measurable AI solution, which is now natively installed on all Avaya products..&source=https://www.afiniti.com/video/avaya-engage-2018
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/future-in-contact-centers&title=Afiniti's Future in Contact Centers.summary=Afiniti's future optimizations in contact centers will expand beyond phone calls to all channels in a business, including emails and messaging services..&source=https://www.afiniti.com/video/future-in-contact-centers
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afinitis-future&title=Afiniti's Future.summary=Zia Chishti, Afiniti CEO and Founder, shares his excitement about what's to come for Afiniti..&source=https://www.afiniti.com/video/afinitis-future
+-- https://twitter.com/intent/tweet/?text=AI and Jobs&amp;url=https://www.afiniti.com/video/ai-and-jobs
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/jessie-burgess-avaya-engage&title=G6 Hospitality's Jessie Burgess at Avaya Engage 2020.summary=Jessie Burgess, EVP & CIO of G6 Hospitality, gave a powerful keynote speech at Avaya Engage 2020. During it, Jessie explains how Afiniti's AI technology and Avaya's telephony infrastructure have helped measurably improve guest experience and increase hotel reservations..&source=https://www.afiniti.com/video/jessie-burgess-avaya-engage
+-- https://twitter.com/intent/tweet/?text=Afiniti Inception&amp;url=https://www.afiniti.com/video/afiniti-inception
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/how-afiniti-measures-impact
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/is-there-a-catch&title=Is there a catch?.summary=Though it may seem too good to be true, Afiniti is the real deal. Learn why Nick Honeyman Brown, MD of Comercial and Strategy, purchased the Afiniti product while at Virgin Media, and why he works at Afiniti today..&source=https://www.afiniti.com/video/is-there-a-catch
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/avaya-engage-2018
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/afinitis-future
+-- https://twitter.com/intent/tweet/?text=Afiniti: Precisely Measurable Results&amp;url=https://www.afiniti.com/video/precisely-measurable-results
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/MIT-Club-AI-Panel-Afiniti-Cisco-Cresta&title=MIT Club AI Panel with Afiniti, Cisco, and Cresta.summary=During the MIT Club of Northern California’s AI for a Better World conference, Afiniti’s Orlando Hampton, Cisco’s Omar Tawakol, and Cresta’s Zayd Enam discussed how artificial intelligence enables revenue teams build and share expertise..&source=https://www.afiniti.com/video/MIT-Club-AI-Panel-Afiniti-Cisco-Cresta
+-- https://twitter.com/intent/tweet/?text=The Afiniti Business Model&amp;url=https://www.afiniti.com/video/business-model
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/native-integration&title=Native Integration with Afiniti.summary=Fanny Heneine, Data & Analytics Lead at Afiniti, explains how native integration cuts integrating time down from an estimated 80 days to as few as 4..&source=https://www.afiniti.com/video/native-integration
+-- https://twitter.com/intent/tweet/?text=Trends in Healthcare&amp;url=https://www.afiniti.com/video/trends-in-healthcare
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/business-distruption
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/nick-honeyman-brown
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/ai-and-hype
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/pay-for-performance&title=Pay For Performance.summary=Fanny Heneine, Data & Analytics Lead at Afiniti, explains our pay for performance business model..&source=https://www.afiniti.com/video/pay-for-performance
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/zia-in-morgan-stanely-tmt-conference
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/introducing-airo
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/data-security-at-afiniti
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/how-afiniti-measures-impact
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/introducing-airo&title=Introducing AiRo.summary=Afiniti’s award-winning behavioral pairing technology is now available to small and medium-sized enterprises. Take a look at how Afiniti is putting the power of AI in your hands..&source=https://www.afiniti.com/video/introducing-airo
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/native-integration-inbound&title=Native Integration: Inbound.summary=Deploying Afiniti within the contact center has never been easier as a result of native integrations with over a dozen platform providers. See how it works for inbound calls..&source=https://www.afiniti.com/video/native-integration-inbound
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/video/airo-and-you
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/ai-for-healthcare-companies&title=How can healthcare companies use AI?.summary=There are many ways that healthcare companies can use AI, both in preventative care and in treatment. Alyssa Guo, Director of Data & Analytics at Afiniti, shares her perspective..&source=https://www.afiniti.com/video/ai-for-healthcare-companies
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/why-we-chose-afiniti&title=G6 Hospitality: Why we chose Afiniti.summary=G6 CIO Jessie Burgess talks about why his organization chose to work with Afiniti, and the transparency they have into measurable monetary results..&source=https://www.afiniti.com/video/why-we-chose-afiniti
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-deployment-steps&title=What are Afiniti's Deployment Steps?.summary=Zia Chishti, Afiniti CEO and Founder, and Ava Lear, Gymnast Champion, discuss Afiniti's deployment steps..&source=https://www.afiniti.com/video/afiniti-deployment-steps
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/afiniti-university&title=Afiniti University.summary=Afiniti University sessions help new and existing clients gain further understanding of how Afiniti works..&source=https://www.afiniti.com/video/afiniti-university
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/business-model&title=The Afiniti Business Model.summary=The Afiniti business model sets us apart: because our technology is precisely measurable, we only charge clients a share of the value we've delivered. Afiniti does not charge for hardware, software, professional services, or maintenance..&source=https://www.afiniti.com/video/business-model
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/video/data-at-afiniti&title=Data at Afiniti.summary=Simply put, we use data to identify patterns that reveal optimal pairs..&source=https://www.afiniti.com/video/data-at-afiniti
+- https://www.afiniti.com/covid-19
+- https://products.afiniti.com
+-- https://products.afiniti.com/enquiries
+--- https://afiniti.com/clients/aa
+--- https://afiniti.com/what-we-do/pairing-better
+--- https://afiniti.com/what-we-do/where-it-works
+--- https://afiniti.com/careers
+--- https://afiniti.com/history
+--- https://afiniti.com/legal/privacy
+--- https://afiniti.com/team
+--- https://afiniti.com/partners
+--- https://afiniti.com/news/events
+--- https://afiniti.com/news/press
+--- https://afiniti.com/videos
+--- https://afiniti.com/what-we-do/how-it-works
+--- https://afiniti.com/partners/avaya
+--- https://afiniti.com/clients/sky
+--- https://afiniti.com/news
+--- https://afiniti.com/contact
+--- https://afiniti.com/legal/patents
+--- https://afiniti.com/clients/axa-direct-assurance
+--- https://afiniti.com/partners/supported-infrastructure
+--- https://afiniti.com/corporate/rock-paper-scissors
+--- https://afiniti.com/clients/g6-hospitality
+--- https://afiniti.com/what-we-do
+--- https://afiniti.com/partners/data-partners
+--- https://afiniti.com/clients
+--- https://afiniti.com/clients/virgin-media
+--- https://afiniti.com/news/comment
+--- https://afiniti.com/partners/mckinsey
+--- https://afiniti.com/partners/telephony
+--- https://afiniti.com/clients/caesars
+--- https://afiniti.com/partners/business-process-outsourcers
+-- https://products.afiniti.com/enquiries
+-- https://products.afiniti.com/enquiries
+-- https://products.afiniti.com/airo
+--- https://afiniti.com/corporate/rock-paper-scissors
+--- https://afiniti.com/partners/data-partners
+--- https://afiniti.com/clients/aa
+--- https://afiniti.com/clients/virgin-media
+--- https://afiniti.com/clients/g6-hospitality
+--- https://afiniti.com/what-we-do/how-it-works
+--- https://afiniti.com/clients/axa-direct-assurance
+--- https://afiniti.com/partners/mckinsey
+--- https://afiniti.com/partners
+--- https://afiniti.com/clients/caesars
+--- https://afiniti.com/partners/telephony
+--- https://afiniti.com/contact
+--- https://afiniti.com/news/events
+--- https://products.afiniti.com/faqs
+--- https://afiniti.com/legal/privacy
+--- https://afiniti.com/news/press
+--- https://afiniti.com/legal/patents
+--- https://afiniti.com/history
+--- https://afiniti.com/what-we-do/pairing-better
+--- https://afiniti.com/partners/avaya
+--- https://afiniti.com/clients
+--- https://afiniti.com/team
+--- https://afiniti.com/partners/business-process-outsourcers
+--- https://afiniti.com/what-we-do
+--- https://www.avaya.com
+--- https://afiniti.com/news
+--- https://afiniti.com/careers
+--- https://afiniti.com/partners/supported-infrastructure
+--- https://afiniti.com/news/comment
+--- https://afiniti.com/clients/sky
+--- https://afiniti.com/videos
+--- https://afiniti.com/what-we-do/where-it-works
+-- https://products.afiniti.com/enquiries
+-- https://products.afiniti.com/enquiries
+-- https://products.afiniti.com/enquiries
+-- https://products.afiniti.com/enterprise
+--- https://afiniti.com/team
+--- https://afiniti.com/contact
+--- https://afiniti.com/news/events
+--- https://afiniti.com/videos
+--- https://afiniti.com/careers
+--- https://products.afiniti.com/faqs
+--- https://afiniti.com/what-we-do/pairing-better
+--- https://afiniti.com/news/comment
+--- https://afiniti.com/partners/avaya
+--- https://afiniti.com/clients/virgin-media
+--- https://afiniti.com/what-we-do
+--- https://afiniti.com/partners/business-process-outsourcers
+--- https://afiniti.com/what-we-do/how-it-works
+--- https://afiniti.com/clients
+--- https://afiniti.com/partners/data-partners
+--- https://afiniti.com/partners/supported-infrastructure
+--- https://afiniti.com/partners/telephony
+--- https://afiniti.com/legal/privacy
+--- https://afiniti.com/what-we-do/where-it-works
+--- https://afiniti.com/corporate/rock-paper-scissors
+--- https://afiniti.com/clients/sky
+--- https://afiniti.com/clients/axa-direct-assurance
+--- https://afiniti.com/clients/caesars
+--- https://afiniti.com/partners
+--- https://afiniti.com/clients/g6-hospitality
+--- https://afiniti.com/news/press
+--- https://afiniti.com/partners/mckinsey
+--- https://afiniti.com/clients/aa
+--- https://afiniti.com/legal/patents
+--- https://afiniti.com/news
+--- https://afiniti.com/history
+-- https://portal.afiniti.com/afinitiportal
+-- https://products.afiniti.com/enquiries
+-- https://products.afiniti.com/enquiries
+-- https://products.afiniti.com/airo
+- https://www.afiniti.com/clients
+- https://www.afiniti.com/clients
+- https://www.afiniti.com/news
+-- https://www.afiniti.com/news/detail/introducing-airo-press-release
+-- https://www.afiniti.com/news/detail/introducing-airo-press-release
+-- https://www.afiniti.com/news/detail/introducing-airo-press-release
+- https://careers.afiniti.com
+-- https://careers.afiniti.com/hamilton
+--- https://careers.afiniti.com/job/599-data-analyst-bermuda
+--- https://careers.afiniti.com/job/702-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/598-data-scientist-bermuda
+-- https://careers.afiniti.com/seoul
+--- https://careers.afiniti.com/job/733-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/job/606-technical-project-manager-korean-english-fluency
+--- https://careers.afiniti.com/job/653-director-of-advanced-analytics
+--- https://careers.afiniti.com/job/661-data-analytics-lead
+-- https://careers.afiniti.com/karachi
+--- https://careers.afiniti.com/job/435-back-end-java-engineer
+--- https://careers.afiniti.com/job/718-frontend-developer
+--- https://careers.afiniti.com/job/727-backend-developer
+--- https://careers.afiniti.com/job/645-software-architect
+--- https://careers.afiniti.com/job/533-etl-engineer
+--- https://careers.afiniti.com/job/728-front-end-developer
+--- https://careers.afiniti.com/job/655-data-engineer-|-advanced-analytics
+--- https://careers.afiniti.com/job/713-python-developer
+--- https://careers.afiniti.com/job/595-full-stack-engineer
+--- https://careers.afiniti.com/job/122-server-architect-engineer
+--- https://careers.afiniti.com/job/423-data-analyst-ai
+--- https://careers.afiniti.com/job/643-senior-linux-engineer-mellanox-technologies
+--- https://careers.afiniti.com/job/530-application-security-engineer
+--- https://careers.afiniti.com/job/720-javascript-full-stack-developer
+--- https://careers.afiniti.com/job/478-telephony-engineer
+--- https://careers.afiniti.com/job/477-scrum-master
+--- https://careers.afiniti.com/job/659-data-analyst-|-advanced-analytics
+--- https://careers.afiniti.com/job/352-engineering-talent-hunt
+--- https://careers.afiniti.com/job/489-security-operations-analyst
+--- https://careers.afiniti.com/job/442-software-engineer-architect-(core)
+--- https://careers.afiniti.com/job/225-data-analytics
+--- https://careers.afiniti.com/job/604-c++-software-engineer
+--- https://careers.afiniti.com/job/492-business-reporting
+--- https://careers.afiniti.com/job/481-associate-data-engineer
+--- https://careers.afiniti.com/job/596-sdet-software-development-engineer-in-test
+--- https://careers.afiniti.com/job/382-c++-software-engineers
+--- https://careers.afiniti.com/job/631-react-js-engineer
+--- https://careers.afiniti.com/job/723-python-big-data-engineer-iii
+--- https://careers.afiniti.com/job/245-network-program-architect
+--- https://careers.afiniti.com/job/628-creative-illustrator
+--- https://careers.afiniti.com/job/559-junior-and-senior-software-engineers
+--- https://careers.afiniti.com/job/716-c++-api-integration-developer
+--- https://careers.afiniti.com/job/621-presentation-designer
+--- https://careers.afiniti.com/job/453-c++-software-engineers
+--- https://careers.afiniti.com/job/625-senior-video-editor
+--- https://careers.afiniti.com/job/627-assistant-video-editor
+--- https://careers.afiniti.com/job/326-devops-engineer
+--- https://careers.afiniti.com/job/216-android-developer
+--- https://careers.afiniti.com/job/469-senior-virtualization-engineer-architect
+--- https://careers.afiniti.com/job/715-product-manager
+--- https://careers.afiniti.com/job/432-client-information-security-assurance-analyst
+--- https://careers.afiniti.com/job/623-creative-designer
+--- https://careers.afiniti.com/job/190-production-analyst-karachi
+--- https://careers.afiniti.com/job/722-hr-operations-officer
+--- https://careers.afiniti.com/job/669-digital-signal-processing-experts-(contractual)
+--- https://careers.afiniti.com/job/493-business-reporting-business-intelligence-specialist
+--- https://careers.afiniti.com/job/341-technical-account-manager
+--- https://careers.afiniti.com/job/145-c++-software-engineer-(khi)
+--- https://careers.afiniti.com/job/455-node.js-software-engineers
+--- https://careers.afiniti.com/job/451-information-security-engineer
+--- https://careers.afiniti.com/job/714-professional-services-consultant
+--- https://careers.afiniti.com/job/730-etl-data-engineer
+--- https://careers.afiniti.com/job/583-client-data-services
+--- https://careers.afiniti.com/job/343-senior-network-engineer
+--- https://careers.afiniti.com/job/562-siem-engineer
+--- https://careers.afiniti.com/job/473-pci-dss-specialist
+--- https://careers.afiniti.com/job/239-api-integration-engineer
+--- https://careers.afiniti.com/job/183-database-administrator
+--- https://careers.afiniti.com/job/622-senior-creative-designer
+--- https://careers.afiniti.com/job/364-software-developers
+--- https://careers.afiniti.com/job/624-motion-graphic-designer
+-- https://careers.afiniti.com/lahore
+--- https://careers.afiniti.com/job/560-front-end-developer
+--- https://careers.afiniti.com/job/473-pci-dss-specialist
+--- https://careers.afiniti.com/job/589-junior-data-scientist
+--- https://careers.afiniti.com/job/530-application-security-engineer
+--- https://careers.afiniti.com/job/627-assistant-video-editor
+--- https://careers.afiniti.com/job/622-senior-creative-designer
+--- https://careers.afiniti.com/job/669-digital-signal-processing-experts-(contractual)
+--- https://careers.afiniti.com/job/715-product-manager
+--- https://careers.afiniti.com/job/225-data-analytics
+--- https://careers.afiniti.com/job/666-ios-developer-(contractual)
+--- https://careers.afiniti.com/job/344-integration-engineer
+--- https://careers.afiniti.com/job/229-production-analyst-lahore
+--- https://careers.afiniti.com/job/489-security-operations-analyst
+--- https://careers.afiniti.com/job/645-software-architect
+--- https://careers.afiniti.com/job/546-software-documentation-specialist
+--- https://careers.afiniti.com/job/665-security-assistant
+--- https://careers.afiniti.com/job/659-data-analyst-|-advanced-analytics
+--- https://careers.afiniti.com/job/625-senior-video-editor
+--- https://careers.afiniti.com/job/492-business-reporting
+--- https://careers.afiniti.com/job/735-front-end-developer-(de)
+--- https://careers.afiniti.com/job/643-senior-linux-engineer-mellanox-technologies
+--- https://careers.afiniti.com/job/437-software-dev-engineers
+--- https://careers.afiniti.com/job/559-junior-and-senior-software-engineers
+--- https://careers.afiniti.com/job/588-front-end-developer
+--- https://careers.afiniti.com/job/655-data-engineer-|-advanced-analytics
+--- https://careers.afiniti.com/job/670-c++-programmers-(contractual)
+--- https://careers.afiniti.com/job/723-python-big-data-engineer-iii
+--- https://careers.afiniti.com/job/621-presentation-designer
+--- https://careers.afiniti.com/job/435-back-end-java-engineer
+--- https://careers.afiniti.com/job/583-client-data-services
+--- https://careers.afiniti.com/job/477-scrum-master
+--- https://careers.afiniti.com/job/595-full-stack-engineer
+--- https://careers.afiniti.com/job/438-senior-software-engineer
+--- https://careers.afiniti.com/job/730-etl-data-engineer
+--- https://careers.afiniti.com/job/667-android-developer-(contractual)
+--- https://careers.afiniti.com/job/533-etl-engineer
+--- https://careers.afiniti.com/job/122-server-architect-engineer
+--- https://careers.afiniti.com/job/594-c++-software-engineer
+--- https://careers.afiniti.com/job/455-node.js-software-engineers
+--- https://careers.afiniti.com/job/628-creative-illustrator
+--- https://careers.afiniti.com/job/623-creative-designer
+--- https://careers.afiniti.com/job/382-c++-software-engineers
+--- https://careers.afiniti.com/job/451-information-security-engineer
+--- https://careers.afiniti.com/job/716-c++-api-integration-developer
+--- https://careers.afiniti.com/job/478-telephony-engineer
+--- https://careers.afiniti.com/job/727-backend-developer
+--- https://careers.afiniti.com/job/736-hr-operations-officer
+--- https://careers.afiniti.com/job/439-director-software-engineering
+--- https://careers.afiniti.com/job/481-associate-data-engineer
+--- https://careers.afiniti.com/job/442-software-engineer-architect-(core)
+--- https://careers.afiniti.com/job/440-principal-software-engineer
+--- https://careers.afiniti.com/job/493-business-reporting-business-intelligence-specialist
+--- https://careers.afiniti.com/job/631-react-js-engineer
+--- https://careers.afiniti.com/job/585-it-service-desk
+--- https://careers.afiniti.com/job/216-android-developer
+--- https://careers.afiniti.com/job/604-c++-software-engineer
+--- https://careers.afiniti.com/job/341-technical-account-manager
+--- https://careers.afiniti.com/job/664-assistant-manager-security
+--- https://careers.afiniti.com/job/668-research-analyst-(contractual)
+--- https://careers.afiniti.com/job/526-c++-service-developer
+--- https://careers.afiniti.com/job/624-motion-graphic-designer
+--- https://careers.afiniti.com/job/432-client-information-security-assurance-analyst
+--- https://careers.afiniti.com/job/640-.net-software-engineer
+--- https://careers.afiniti.com/job/183-database-administrator
+--- https://careers.afiniti.com/job/531-software-engineer
+--- https://careers.afiniti.com/job/469-senior-virtualization-engineer-architect
+--- https://careers.afiniti.com/job/562-siem-engineer
+--- https://careers.afiniti.com/job/352-engineering-talent-hunt
+--- https://careers.afiniti.com/job/592-api-integration-engineer
+--- https://careers.afiniti.com/job/326-devops-engineer
+--- https://careers.afiniti.com/job/596-sdet-software-development-engineer-in-test
+--- https://careers.afiniti.com/job/616-hr-business-partner
+-- https://careers.afiniti.com/dublin
+--- https://careers.afiniti.com/job/701-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/619-data-scientist-data-analytics
+--- https://careers.afiniti.com/job/632-senior-server-engineers
+--- https://careers.afiniti.com/job/689-gnoc:-senior-network-engineer
+--- https://careers.afiniti.com/job/590-research-scientist-artificial-intelligence-machine-learning-deep-learning-phd
+-- https://careers.afiniti.com/toronto
+--- https://careers.afiniti.com/team/tim-nixon
+--- https://careers.afiniti.com/team/nicole-lussier
+--- https://careers.afiniti.com/team/michelle-digulla
+--- https://careers.afiniti.com/job/663-director-of-advanced-analytics
+--- https://careers.afiniti.com/team/tian-li
+--- https://careers.afiniti.com/team/tian-li
+--- https://careers.afiniti.com/team/michelle-digulla
+--- https://careers.afiniti.com/team/tian-li
+--- https://careers.afiniti.com/team/nicole-lussier
+--- https://careers.afiniti.com/team/tim-nixon
+--- https://careers.afiniti.com/team/nicole-lussier
+--- https://careers.afiniti.com/team/michelle-digulla
+--- https://careers.afiniti.com/team/tim-nixon
+-- https://careers.afiniti.com/jobs
+--- https://careers.afiniti.com/job/708-global-delivery-lead-contact-centre-technology
+--- https://careers.afiniti.com/job/229-production-analyst-lahore
+--- https://careers.afiniti.com/job/688-research-scientist-artificial-intelligence-machine-learning-deep-learning-phd
+--- https://careers.afiniti.com/job/651-associate-director-of-advanced-analytics
+--- https://careers.afiniti.com/job/667-android-developer-(contractual)
+--- https://careers.afiniti.com/job/640-.net-software-engineer
+--- https://careers.afiniti.com/job/632-senior-server-engineers
+--- https://careers.afiniti.com/job/713-python-developer
+--- https://careers.afiniti.com/job/533-etl-engineer
+--- https://careers.afiniti.com/job/583-client-data-services
+--- https://careers.afiniti.com/job/451-information-security-engineer
+--- https://careers.afiniti.com/job/447-production-analyst-specialist
+--- https://careers.afiniti.com/job/732-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/job/704-data-engineer-of-advanced-analytics
+--- https://careers.afiniti.com/job/439-director-software-engineering
+--- https://careers.afiniti.com/job/650-datacenter-engineer
+--- https://careers.afiniti.com/job/183-database-administrator
+--- https://careers.afiniti.com/job/715-product-manager
+--- https://careers.afiniti.com/job/507-client-data-services-lead
+--- https://careers.afiniti.com/job/648-recruiting-manager-talent-acquisition-manager
+--- https://careers.afiniti.com/job/623-creative-designer
+--- https://careers.afiniti.com/job/364-software-developers
+--- https://careers.afiniti.com/job/705-global-delivery-lead-contact-centre-technology
+--- https://careers.afiniti.com/job/727-backend-developer
+--- https://careers.afiniti.com/job/735-front-end-developer-(de)
+--- https://careers.afiniti.com/job/548-it-support-specialist
+--- https://careers.afiniti.com/job/446-production-analyst-specialist
+--- https://careers.afiniti.com/job/611-cisco-ucce-deployment-engineer
+--- https://careers.afiniti.com/job/669-digital-signal-processing-experts-(contractual)
+--- https://careers.afiniti.com/job/628-creative-illustrator
+--- https://careers.afiniti.com/job/382-c++-software-engineers
+--- https://careers.afiniti.com/job/616-hr-business-partner
+--- https://careers.afiniti.com/job/381-associate-business-analytics
+--- https://careers.afiniti.com/job/712-genesys-deployment-engineer
+--- https://careers.afiniti.com/job/682-global-delivery-lead
+--- https://careers.afiniti.com/job/352-engineering-talent-hunt
+--- https://careers.afiniti.com/job/613-cisco-ucce-deployment-engineer
+--- https://careers.afiniti.com/job/655-data-engineer-|-advanced-analytics
+--- https://careers.afiniti.com/job/449-3-data-scientist
+--- https://careers.afiniti.com/job/609-senior-director-of-partnerships-and-alliances
+--- https://careers.afiniti.com/job/455-node.js-software-engineers
+--- https://careers.afiniti.com/job/707-global-delivery-lead-contact-centre-technology
+--- https://careers.afiniti.com/job/577-senior-ai-data-scientist
+--- https://careers.afiniti.com/job/615-hr-business-partner
+--- https://careers.afiniti.com/job/469-senior-virtualization-engineer-architect
+--- https://careers.afiniti.com/job/627-assistant-video-editor
+--- https://careers.afiniti.com/job/216-android-developer
+--- https://careers.afiniti.com/job/513-cisco-ucce-deployment-engineer
+--- https://careers.afiniti.com/job/537-solution-architect
+--- https://careers.afiniti.com/job/737-hr-operations-officer
+--- https://careers.afiniti.com/job/637-marketing-content-intern
+--- https://careers.afiniti.com/job/530-application-security-engineer
+--- https://careers.afiniti.com/job/717-lead-data-engineer
+--- https://careers.afiniti.com/job/604-c++-software-engineer
+--- https://careers.afiniti.com/job/660-data-analytics-lead
+--- https://careers.afiniti.com/job/684-global-delivery-lead
+--- https://careers.afiniti.com/job/580-genesys-deployment-engineer
+--- https://careers.afiniti.com/job/467-c++-developer
+--- https://careers.afiniti.com/job/730-etl-data-engineer
+--- https://careers.afiniti.com/job/659-data-analyst-|-advanced-analytics
+--- https://careers.afiniti.com/job/443-production-analyst-specialist
+--- https://careers.afiniti.com/job/594-c++-software-engineer
+--- https://careers.afiniti.com/job/477-scrum-master
+--- https://careers.afiniti.com/job/606-technical-project-manager-korean-english-fluency
+--- https://careers.afiniti.com/job/706-global-delivery-lead-contact-centre-technology
+--- https://careers.afiniti.com/job/679-technical-recruiter
+--- https://careers.afiniti.com/job/367-infosec-grc-audit-coordinator
+--- https://careers.afiniti.com/job/559-junior-and-senior-software-engineers
+--- https://careers.afiniti.com/job/493-business-reporting-business-intelligence-specialist
+--- https://careers.afiniti.com/job/341-technical-account-manager
+--- https://careers.afiniti.com/job/703-genesys-deployment-engineer
+--- https://careers.afiniti.com/job/588-front-end-developer
+--- https://careers.afiniti.com/job/645-software-architect
+--- https://careers.afiniti.com/job/700-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/454-production-analyst-specialist
+--- https://careers.afiniti.com/job/596-sdet-software-development-engineer-in-test
+--- https://careers.afiniti.com/job/379-data-analytics-consultant
+--- https://careers.afiniti.com/job/681-global-delivery-lead
+--- https://careers.afiniti.com/job/643-senior-linux-engineer-mellanox-technologies
+--- https://careers.afiniti.com/job/635-technical-account-manager-service-delivery-manger
+--- https://careers.afiniti.com/job/665-security-assistant
+--- https://careers.afiniti.com/job/344-integration-engineer
+--- https://careers.afiniti.com/job/363-api-integration-engineer
+--- https://careers.afiniti.com/job/225-data-analytics
+--- https://careers.afiniti.com/job/699-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/538-software-developer
+--- https://careers.afiniti.com/job/675-technical-account-manager
+--- https://careers.afiniti.com/job/701-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/486-production-analyst
+--- https://careers.afiniti.com/job/590-research-scientist-artificial-intelligence-machine-learning-deep-learning-phd
+--- https://careers.afiniti.com/job/638-front-end-developer
+--- https://careers.afiniti.com/job/478-telephony-engineer
+--- https://careers.afiniti.com/job/689-gnoc:-senior-network-engineer
+--- https://careers.afiniti.com/job/690-global-delivery-lead
+--- https://careers.afiniti.com/job/702-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/625-senior-video-editor
+--- https://careers.afiniti.com/job/722-hr-operations-officer
+--- https://careers.afiniti.com/job/432-client-information-security-assurance-analyst
+--- https://careers.afiniti.com/job/619-data-scientist-data-analytics
+--- https://careers.afiniti.com/job/473-pci-dss-specialist
+--- https://careers.afiniti.com/job/546-software-documentation-specialist
+--- https://careers.afiniti.com/job/680-global-delivery-lead
+--- https://careers.afiniti.com/job/697-director-of-advanced-analytics
+--- https://careers.afiniti.com/job/442-software-engineer-architect-(core)
+--- https://careers.afiniti.com/job/718-frontend-developer
+--- https://careers.afiniti.com/job/481-associate-data-engineer
+--- https://careers.afiniti.com/job/423-data-analyst-ai
+--- https://careers.afiniti.com/job/693-senior-data-scientist
+--- https://careers.afiniti.com/job/326-devops-engineer
+--- https://careers.afiniti.com/job/190-production-analyst-karachi
+--- https://careers.afiniti.com/job/710-genesys-deployment-engineer
+--- https://careers.afiniti.com/job/614-hr-analyst
+--- https://careers.afiniti.com/job/492-business-reporting
+--- https://careers.afiniti.com/job/425-data-analyst-artificial-intelligence
+--- https://careers.afiniti.com/job/589-junior-data-scientist
+--- https://careers.afiniti.com/job/448-production-analyst-specialist
+--- https://careers.afiniti.com/job/336-software-engineer-architect-(core)
+--- https://careers.afiniti.com/job/711-genesys-deployment-engineer
+--- https://careers.afiniti.com/job/714-professional-services-consultant
+--- https://careers.afiniti.com/job/647-data-scientist-artificial-intelligence
+--- https://careers.afiniti.com/job/716-c++-api-integration-developer
+--- https://careers.afiniti.com/job/595-full-stack-engineer
+--- https://careers.afiniti.com/job/683-global-delivery-lead
+--- https://careers.afiniti.com/job/592-api-integration-engineer
+--- https://careers.afiniti.com/job/562-siem-engineer
+--- https://careers.afiniti.com/job/489-security-operations-analyst
+--- https://careers.afiniti.com/job/621-presentation-designer
+--- https://careers.afiniti.com/job/335-software-engineer-architect-(test)
+--- https://careers.afiniti.com/job/736-hr-operations-officer
+--- https://careers.afiniti.com/job/531-software-engineer
+--- https://careers.afiniti.com/job/527-full-stack-developer
+--- https://careers.afiniti.com/job/435-back-end-java-engineer
+--- https://careers.afiniti.com/job/642-production-analyst-islamabad
+--- https://careers.afiniti.com/job/733-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/job/560-front-end-developer
+--- https://careers.afiniti.com/job/728-front-end-developer
+--- https://careers.afiniti.com/job/709-genesys-deployment-engineer
+--- https://careers.afiniti.com/job/585-it-service-desk
+--- https://careers.afiniti.com/job/388-deployment-engineer
+--- https://careers.afiniti.com/job/653-director-of-advanced-analytics
+--- https://careers.afiniti.com/job/612-cisco-ucce-deployment-engineer
+--- https://careers.afiniti.com/job/555-telephony-deployment-engineer-avaya-or-genesys
+--- https://careers.afiniti.com/job/694-senior-data-scientist
+--- https://careers.afiniti.com/job/245-network-program-architect
+--- https://careers.afiniti.com/job/654-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/job/720-javascript-full-stack-developer
+--- https://careers.afiniti.com/job/122-server-architect-engineer
+--- https://careers.afiniti.com/job/145-c++-software-engineer-(khi)
+--- https://careers.afiniti.com/job/343-senior-network-engineer
+--- https://careers.afiniti.com/job/666-ios-developer-(contractual)
+--- https://careers.afiniti.com/job/624-motion-graphic-designer
+--- https://careers.afiniti.com/job/664-assistant-manager-security
+--- https://careers.afiniti.com/job/437-software-dev-engineers
+--- https://careers.afiniti.com/job/622-senior-creative-designer
+--- https://careers.afiniti.com/job/488-technical-account-manager
+--- https://careers.afiniti.com/job/685-technical-project-manager-telephony-genesys-avaya-cisco
+--- https://careers.afiniti.com/job/440-principal-software-engineer
+--- https://careers.afiniti.com/job/723-python-big-data-engineer-iii
+--- https://careers.afiniti.com/job/360-associate-business-analytics
+--- https://careers.afiniti.com/job/598-data-scientist-bermuda
+--- https://careers.afiniti.com/job/599-data-analyst-bermuda
+--- https://careers.afiniti.com/job/663-director-of-advanced-analytics
+--- https://careers.afiniti.com/job/649-technical-recruiter
+--- https://careers.afiniti.com/job/670-c++-programmers-(contractual)
+--- https://careers.afiniti.com/job/668-research-analyst-(contractual)
+--- https://careers.afiniti.com/job/438-senior-software-engineer
+--- https://careers.afiniti.com/job/520-senior-ui-designer
+--- https://careers.afiniti.com/job/459-avaya-deployment-engineer
+--- https://careers.afiniti.com/job/445-production-analyst-specialist
+--- https://careers.afiniti.com/job/517-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/526-c++-service-developer
+--- https://careers.afiniti.com/job/608-director-of-partnerships-and-alliances
+--- https://careers.afiniti.com/job/337-software-engineer-architect-(ui-and-visualization)
+--- https://careers.afiniti.com/job/734-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/job/631-react-js-engineer
+--- https://careers.afiniti.com/job/686-technical-project-manager-telephony-genesys-avaya-cisco
+--- https://careers.afiniti.com/job/726-training-and-development-manager
+--- https://careers.afiniti.com/job/444-production-analyst-specialist
+--- https://careers.afiniti.com/job/239-api-integration-engineer
+--- https://careers.afiniti.com/job/453-c++-software-engineers
+--- https://careers.afiniti.com/job/661-data-analytics-lead
+-- https://careers.afiniti.com/jobs
+-- https://careers.afiniti.com/washington-dc
+--- https://careers.afiniti.com/job/705-global-delivery-lead-contact-centre-technology
+--- https://careers.afiniti.com/job/517-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/job/488-technical-account-manager
+--- https://careers.afiniti.com/job/360-associate-business-analytics
+--- https://careers.afiniti.com/job/379-data-analytics-consultant
+--- https://careers.afiniti.com/job/717-lead-data-engineer
+--- https://careers.afiniti.com/job/507-client-data-services-lead
+--- https://careers.afiniti.com/job/381-associate-business-analytics
+--- https://careers.afiniti.com/job/548-it-support-specialist
+--- https://careers.afiniti.com/job/611-cisco-ucce-deployment-engineer
+--- https://careers.afiniti.com/job/726-training-and-development-manager
+--- https://careers.afiniti.com/job/443-production-analyst-specialist
+--- https://careers.afiniti.com/job/650-datacenter-engineer
+--- https://careers.afiniti.com/job/449-3-data-scientist
+--- https://careers.afiniti.com/job/614-hr-analyst
+-- https://careers.afiniti.com/berlin
+--- https://careers.afiniti.com/job/681-global-delivery-lead
+-- https://careers.afiniti.com/madrid
+--- https://careers.afiniti.com/job/660-data-analytics-lead
+--- https://careers.afiniti.com/team/davide-caramelli
+--- https://careers.afiniti.com/team/alonso-aznar
+--- https://careers.afiniti.com/team/ignacio-jover-aisa
+--- https://careers.afiniti.com/team/alicia-richart
+--- https://careers.afiniti.com/team/alonso-aznar
+--- https://careers.afiniti.com/team/casilda-moro
+--- https://careers.afiniti.com/team/borja-bes
+--- https://careers.afiniti.com/team/borja-bes
+--- https://careers.afiniti.com/team/alicia-richart
+--- https://careers.afiniti.com/team/alonso-aznar
+--- https://careers.afiniti.com/team/casilda-moro
+--- https://careers.afiniti.com/job/703-genesys-deployment-engineer
+--- https://careers.afiniti.com/team/borja-bes
+--- https://careers.afiniti.com/team/casilda-moro
+--- https://careers.afiniti.com/team/alicia-richart
+--- https://careers.afiniti.com/team/ignacio-jover-aisa
+--- https://careers.afiniti.com/team/davide-caramelli
+--- https://careers.afiniti.com/team/ignacio-jover-aisa
+--- https://careers.afiniti.com/team/davide-caramelli
+-- https://careers.afiniti.com/istanbul
+--- https://careers.afiniti.com/job/520-senior-ui-designer
+--- https://careers.afiniti.com/job/615-hr-business-partner
+--- https://careers.afiniti.com/job/335-software-engineer-architect-(test)
+--- https://careers.afiniti.com/team/mustafa-kirac
+--- https://careers.afiniti.com/team/cihan-peker
+--- https://careers.afiniti.com/job/537-solution-architect
+--- https://careers.afiniti.com/team/fatih-bozdogan
+--- https://careers.afiniti.com/job/467-c++-developer
+--- https://careers.afiniti.com/team/mustafa-kirac
+--- https://careers.afiniti.com/job/538-software-developer
+--- https://careers.afiniti.com/team/omer-akkentli
+--- https://careers.afiniti.com/job/638-front-end-developer
+--- https://careers.afiniti.com/job/337-software-engineer-architect-(ui-and-visualization)
+--- https://careers.afiniti.com/team/cecilia-braggiotti-istanbul
+--- https://careers.afiniti.com/team/cecilia-braggiotti-istanbul
+--- https://careers.afiniti.com/team/omer-akkentli
+--- https://careers.afiniti.com/team/fatih-bozdogan
+--- https://careers.afiniti.com/job/336-software-engineer-architect-(core)
+--- https://careers.afiniti.com/team/cihan-peker
+--- https://careers.afiniti.com/team/omer-akkentli
+--- https://careers.afiniti.com/team/cecilia-braggiotti-istanbul
+--- https://careers.afiniti.com/team/mustafa-kirac
+--- https://careers.afiniti.com/job/527-full-stack-developer
+--- https://careers.afiniti.com/team/fatih-bozdogan
+--- https://careers.afiniti.com/team/cihan-peker
+-- https://portal.afiniti.com/afinitiportal
+-- https://careers.afiniti.com/seattle
+--- https://careers.afiniti.com/job/613-cisco-ucce-deployment-engineer
+--- https://careers.afiniti.com/job/707-global-delivery-lead-contact-centre-technology
+-- https://careers.afiniti.com/paris
+--- https://careers.afiniti.com/team/jerome-de-castries
+--- https://careers.afiniti.com/team/yosra-boussaa
+--- https://careers.afiniti.com/team/guillaume-dupuy
+--- https://careers.afiniti.com/team/yaron-zurr
+--- https://careers.afiniti.com/team/guillaume-dupuy
+--- https://careers.afiniti.com/team/osman-masud
+--- https://careers.afiniti.com/team/consuelo-remmert
+--- https://careers.afiniti.com/team/jeff-tournier
+--- https://careers.afiniti.com/team/haifa-souid
+--- https://careers.afiniti.com/team/yosra-boussaa
+--- https://careers.afiniti.com/team/haifa-souid
+--- https://careers.afiniti.com/team/guillaume-dupuy
+--- https://careers.afiniti.com/team/osman-masud
+--- https://careers.afiniti.com/job/654-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/team/jeff-tournier
+--- https://careers.afiniti.com/team/jerome-de-castries
+--- https://careers.afiniti.com/team/consuelo-remmert
+--- https://careers.afiniti.com/team/yaron-zurr
+--- https://careers.afiniti.com/team/nicolas-gallot
+--- https://careers.afiniti.com/job/675-technical-account-manager
+--- https://careers.afiniti.com/team/eric-le-flour
+--- https://careers.afiniti.com/team/jerome-de-castries
+--- https://careers.afiniti.com/team/haifa-souid
+--- https://careers.afiniti.com/team/cedric-croguennec
+--- https://careers.afiniti.com/job/694-senior-data-scientist
+--- https://careers.afiniti.com/team/alix-gard
+--- https://careers.afiniti.com/team/eric-le-flour
+--- https://careers.afiniti.com/team/cedric-croguennec
+--- https://careers.afiniti.com/team/eric-le-flour
+--- https://careers.afiniti.com/team/nicolas-gallot
+--- https://careers.afiniti.com/team/nicolas-gallot
+--- https://careers.afiniti.com/team/jeff-tournier
+--- https://careers.afiniti.com/team/alix-gard
+--- https://careers.afiniti.com/team/consuelo-remmert
+--- https://careers.afiniti.com/team/yosra-boussaa
+--- https://careers.afiniti.com/job/682-global-delivery-lead
+--- https://careers.afiniti.com/team/cedric-croguennec
+--- https://careers.afiniti.com/team/osman-masud
+--- https://careers.afiniti.com/team/yaron-zurr
+--- https://careers.afiniti.com/team/alix-gard
+-- https://careers.afiniti.com/milan
+--- https://careers.afiniti.com/team/cosmin-radulescu
+--- https://careers.afiniti.com/team/edoardo-sezzi
+--- https://careers.afiniti.com/team/giorgia-scaparra
+--- https://careers.afiniti.com/team/maurizio-conti
+--- https://careers.afiniti.com/team/emanuele-tonini
+--- https://careers.afiniti.com/team/cecilia-braggiotti
+--- https://careers.afiniti.com/team/pelin-cansu-ok
+--- https://careers.afiniti.com/team/vincenzo-giannone
+--- https://careers.afiniti.com/team/giorgia-scaparra
+--- https://careers.afiniti.com/team/giorgia-scaparra
+--- https://careers.afiniti.com/team/gabriele-albini
+--- https://careers.afiniti.com/team/cecilia-braggiotti
+--- https://careers.afiniti.com/team/edoardo-sezzi
+--- https://careers.afiniti.com/team/edoardo-sezzi
+--- https://careers.afiniti.com/team/andrea-greggia
+--- https://careers.afiniti.com/team/emanuele-tonini
+--- https://careers.afiniti.com/team/gabriele-albini
+--- https://careers.afiniti.com/team/andrea-greggia
+--- https://careers.afiniti.com/team/antonella-cimino
+--- https://careers.afiniti.com/team/atieh-karkhanehchi
+--- https://careers.afiniti.com/team/maurizio-conti
+--- https://careers.afiniti.com/team/gabriele-albini
+--- https://careers.afiniti.com/team/paolo-branno
+--- https://careers.afiniti.com/job/577-senior-ai-data-scientist
+--- https://careers.afiniti.com/team/antonella-cimino
+--- https://careers.afiniti.com/team/cecilia-braggiotti
+--- https://careers.afiniti.com/team/andrea-greggia
+--- https://careers.afiniti.com/team/atieh-karkhanehchi
+--- https://careers.afiniti.com/team/maurizio-conti
+--- https://careers.afiniti.com/team/antonella-cimino
+--- https://careers.afiniti.com/team/vincenzo-giannone
+--- https://careers.afiniti.com/team/atieh-karkhanehchi
+--- https://careers.afiniti.com/team/emanuele-tonini
+--- https://careers.afiniti.com/team/pelin-cansu-ok
+--- https://careers.afiniti.com/team/cosmin-radulescu
+--- https://careers.afiniti.com/team/vincenzo-giannone
+--- https://careers.afiniti.com/team/cosmin-radulescu
+--- https://careers.afiniti.com/team/pelin-cansu-ok
+--- https://careers.afiniti.com/team/paolo-branno
+--- https://careers.afiniti.com/team/paolo-branno
+-- https://careers.afiniti.com/jobs
+-- https://careers.afiniti.com/sydney
+--- https://careers.afiniti.com/team/graeme-provan
+--- https://careers.afiniti.com/team/graeme-provan
+--- https://careers.afiniti.com/team/wyatt-roy
+--- https://careers.afiniti.com/team/-julie-bishop
+--- https://careers.afiniti.com/team/richard-freudenstein
+--- https://careers.afiniti.com/team/laurent-horrut
+--- https://careers.afiniti.com/team/trung-nguyen
+--- https://careers.afiniti.com/team/ali-mcdonald
+--- https://careers.afiniti.com/team/wyatt-roy
+--- https://careers.afiniti.com/team/-julie-bishop
+--- https://careers.afiniti.com/team/-julie-bishop
+--- https://careers.afiniti.com/team/laurent-horrut
+--- https://careers.afiniti.com/team/richard-freudenstein
+--- https://careers.afiniti.com/job/711-genesys-deployment-engineer
+--- https://careers.afiniti.com/team/wyatt-roy
+--- https://careers.afiniti.com/team/richard-freudenstein
+--- https://careers.afiniti.com/team/trung-nguyen
+--- https://careers.afiniti.com/team/laurent-horrut
+--- https://careers.afiniti.com/team/graeme-provan
+--- https://careers.afiniti.com/team/ali-mcdonald
+--- https://careers.afiniti.com/team/caroline-o'brien
+--- https://careers.afiniti.com/team/caroline-o'brien
+--- https://careers.afiniti.com/team/caroline-o'brien
+--- https://careers.afiniti.com/team/ali-mcdonald
+--- https://careers.afiniti.com/team/trung-nguyen
+-- https://careers.afiniti.com/london
+--- https://careers.afiniti.com/team/paul-rosewarne
+--- https://careers.afiniti.com/team/charlie-march
+--- https://careers.afiniti.com/job/685-technical-project-manager-telephony-genesys-avaya-cisco
+--- https://careers.afiniti.com/team/jay-duffy
+--- https://careers.afiniti.com/team/kirsty-young
+--- https://careers.afiniti.com/job/680-global-delivery-lead
+--- https://careers.afiniti.com/team/mijanou-dilks
+--- https://careers.afiniti.com/team/mijanou-dilks
+--- https://careers.afiniti.com/team/mijanou-dilks
+--- https://careers.afiniti.com/job/679-technical-recruiter
+--- https://careers.afiniti.com/team/paul-rosewarne
+--- https://careers.afiniti.com/team/caroline-langan
+--- https://careers.afiniti.com/job/651-associate-director-of-advanced-analytics
+--- https://careers.afiniti.com/job/700-dba-netezza-mysql-postgres-greenplum
+--- https://careers.afiniti.com/team/colin-miles
+--- https://careers.afiniti.com/team/jay-duffy
+--- https://careers.afiniti.com/team/neha-sangani
+--- https://careers.afiniti.com/job/693-senior-data-scientist
+--- https://careers.afiniti.com/team/charlie-march
+--- https://careers.afiniti.com/team/paul-rosewarne
+--- https://careers.afiniti.com/job/367-infosec-grc-audit-coordinator
+--- https://careers.afiniti.com/team/nick-honeyman-brown
+--- https://careers.afiniti.com/team/kirsty-young
+--- https://careers.afiniti.com/team/nick-honeyman-brown
+--- https://careers.afiniti.com/team/nick-honeyman-brown
+--- https://careers.afiniti.com/team/jay-duffy
+--- https://careers.afiniti.com/team/mark-meghezzi
+--- https://careers.afiniti.com/team/hannah-mccain
+--- https://careers.afiniti.com/team/neha-sangani
+--- https://careers.afiniti.com/team/hannah-mccain
+--- https://careers.afiniti.com/team/ali-saeed
+--- https://careers.afiniti.com/team/neha-sangani
+--- https://careers.afiniti.com/team/colin-miles
+--- https://careers.afiniti.com/team/hannah-mccain
+--- https://careers.afiniti.com/team/caroline-langan
+--- https://careers.afiniti.com/team/caroline-langan
+--- https://careers.afiniti.com/team/ali-saeed
+--- https://careers.afiniti.com/team/archie-soames
+--- https://careers.afiniti.com/team/archie-soames
+--- https://careers.afiniti.com/job/732-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/team/ali-saeed
+--- https://careers.afiniti.com/team/mark-meghezzi
+--- https://careers.afiniti.com/team/archie-soames
+--- https://careers.afiniti.com/team/mark-meghezzi
+--- https://careers.afiniti.com/team/kirsty-young
+--- https://careers.afiniti.com/team/colin-miles
+--- https://careers.afiniti.com/team/charlie-march
+--- https://careers.afiniti.com/job/688-research-scientist-artificial-intelligence-machine-learning-deep-learning-phd
+-- https://careers.afiniti.com/new-york
+--- https://careers.afiniti.com/team/priya-sangameswaran
+--- https://careers.afiniti.com/team/dustin-zhang
+--- https://careers.afiniti.com/team/beatrice-york
+--- https://careers.afiniti.com/team/tim-hager
+--- https://careers.afiniti.com/job/637-marketing-content-intern
+--- https://careers.afiniti.com/team/tim-hager
+--- https://careers.afiniti.com/team/henri-sejournet
+--- https://careers.afiniti.com/team/chris-schraft
+--- https://careers.afiniti.com/team/maria-osorio
+--- https://careers.afiniti.com/team/maria-osorio
+--- https://careers.afiniti.com/team/michel-portenier-new-york
+--- https://careers.afiniti.com/team/maria-osorio
+--- https://careers.afiniti.com/team/fanny-heneine
+--- https://careers.afiniti.com/team/dustin-zhang
+--- https://careers.afiniti.com/team/-brad-brown
+--- https://careers.afiniti.com/team/michel-portenier-new-york
+--- https://careers.afiniti.com/team/henri-sejournet
+--- https://careers.afiniti.com/team/priya-sangameswaran
+--- https://careers.afiniti.com/team/juliadeboinville
+--- https://careers.afiniti.com/team/-brad-brown
+--- https://careers.afiniti.com/team/-brad-brown
+--- https://careers.afiniti.com/team/juliadeboinville
+--- https://careers.afiniti.com/team/chris-schraft
+--- https://careers.afiniti.com/job/608-director-of-partnerships-and-alliances
+--- https://careers.afiniti.com/team/dustin-zhang
+--- https://careers.afiniti.com/team/priya-sangameswaran
+--- https://careers.afiniti.com/team/juliadeboinville
+--- https://careers.afiniti.com/team/chris-schraft
+--- https://careers.afiniti.com/team/david-kroner
+--- https://careers.afiniti.com/team/david-kroner
+--- https://careers.afiniti.com/team/henri-sejournet
+--- https://careers.afiniti.com/team/fanny-heneine
+--- https://careers.afiniti.com/job/706-global-delivery-lead-contact-centre-technology
+--- https://careers.afiniti.com/team/beatrice-york
+--- https://careers.afiniti.com/team/david-kroner
+--- https://careers.afiniti.com/team/michel-portenier-new-york
+--- https://careers.afiniti.com/team/fanny-heneine
+--- https://careers.afiniti.com/team/tim-hager
+--- https://careers.afiniti.com/team/beatrice-york
+-- https://careers.afiniti.com/islamabad
+--- https://careers.afiniti.com/job/363-api-integration-engineer
+--- https://careers.afiniti.com/job/624-motion-graphic-designer
+--- https://careers.afiniti.com/job/437-software-dev-engineers
+--- https://careers.afiniti.com/job/659-data-analyst-|-advanced-analytics
+--- https://careers.afiniti.com/job/596-sdet-software-development-engineer-in-test
+--- https://careers.afiniti.com/job/562-siem-engineer
+--- https://careers.afiniti.com/job/455-node.js-software-engineers
+--- https://careers.afiniti.com/job/622-senior-creative-designer
+--- https://careers.afiniti.com/job/723-python-big-data-engineer-iii
+--- https://careers.afiniti.com/job/627-assistant-video-editor
+--- https://careers.afiniti.com/job/122-server-architect-engineer
+--- https://careers.afiniti.com/job/442-software-engineer-architect-(core)
+--- https://careers.afiniti.com/job/716-c++-api-integration-developer
+--- https://careers.afiniti.com/job/352-engineering-talent-hunt
+--- https://careers.afiniti.com/job/643-senior-linux-engineer-mellanox-technologies
+--- https://careers.afiniti.com/job/451-information-security-engineer
+--- https://careers.afiniti.com/job/623-creative-designer
+--- https://careers.afiniti.com/job/715-product-manager
+--- https://careers.afiniti.com/job/481-associate-data-engineer
+--- https://careers.afiniti.com/job/216-android-developer
+--- https://careers.afiniti.com/job/642-production-analyst-islamabad
+--- https://careers.afiniti.com/job/559-junior-and-senior-software-engineers
+--- https://careers.afiniti.com/job/326-devops-engineer
+--- https://careers.afiniti.com/job/625-senior-video-editor
+--- https://careers.afiniti.com/job/595-full-stack-engineer
+--- https://careers.afiniti.com/job/655-data-engineer-|-advanced-analytics
+--- https://careers.afiniti.com/job/225-data-analytics
+--- https://careers.afiniti.com/job/435-back-end-java-engineer
+--- https://careers.afiniti.com/job/382-c++-software-engineers
+--- https://careers.afiniti.com/job/628-creative-illustrator
+--- https://careers.afiniti.com/job/583-client-data-services
+--- https://careers.afiniti.com/job/473-pci-dss-specialist
+--- https://careers.afiniti.com/job/492-business-reporting
+--- https://careers.afiniti.com/job/727-backend-developer
+--- https://careers.afiniti.com/job/730-etl-data-engineer
+--- https://careers.afiniti.com/job/477-scrum-master
+--- https://careers.afiniti.com/job/183-database-administrator
+--- https://careers.afiniti.com/job/425-data-analyst-artificial-intelligence
+--- https://careers.afiniti.com/job/604-c++-software-engineer
+--- https://careers.afiniti.com/job/533-etl-engineer
+--- https://careers.afiniti.com/job/621-presentation-designer
+--- https://careers.afiniti.com/job/489-security-operations-analyst
+--- https://careers.afiniti.com/job/645-software-architect
+--- https://careers.afiniti.com/job/631-react-js-engineer
+--- https://careers.afiniti.com/job/647-data-scientist-artificial-intelligence
+--- https://careers.afiniti.com/job/388-deployment-engineer
+--- https://careers.afiniti.com/job/469-senior-virtualization-engineer-architect
+--- https://careers.afiniti.com/job/493-business-reporting-business-intelligence-specialist
+--- https://careers.afiniti.com/job/737-hr-operations-officer
+--- https://careers.afiniti.com/job/530-application-security-engineer
+-- https://careers.afiniti.com/sao-paulo
+--- https://careers.afiniti.com/job/459-avaya-deployment-engineer
+--- https://careers.afiniti.com/team/charles-monteux
+--- https://careers.afiniti.com/team/marjorie-goichberg
+--- https://careers.afiniti.com/job/635-technical-account-manager-service-delivery-manger
+--- https://careers.afiniti.com/team/charles-monteux
+--- https://careers.afiniti.com/team/marjorie-goichberg
+--- https://careers.afiniti.com/job/684-global-delivery-lead
+--- https://careers.afiniti.com/team/marjorie-goichberg
+--- https://careers.afiniti.com/job/580-genesys-deployment-engineer
+--- https://careers.afiniti.com/job/734-data-analytics-senior-manager-client-data-services
+--- https://careers.afiniti.com/job/513-cisco-ucce-deployment-engineer
+--- https://careers.afiniti.com/team/charles-monteux
+- https://www.afiniti.com/what-we-do
+- https://www.afiniti.com/partners/business-process-outsourcers
+- https://www.afiniti.com/team
+- https://www.afiniti.com/what-we-do
+- https://www.afiniti.com/advisory-board
+-- https://www.afiniti.com/team/ugur-bayar
+--- https://www.linkedin.com/in/ugur-bayar-3a509b5
+-- https://www.afiniti.com/team/stefano-marsaglia
+--- https://www.linkedin.com/in/stefano-marsaglia-a8383217b
+-- https://www.afiniti.com/team/ali-j-siddiqui
+-- https://www.afiniti.com/team/herbert-henzler
+--- https://www.linkedin.com/in/prof-dr-herbert-henzler-161556157
+-- https://www.afiniti.com/team/nobuyuki-idei
+--- https://www.linkedin.com/in/nobuyukiidei
+-- https://www.afiniti.com/team/mary-bush
+--- https://www.linkedin.com/in/mary-k-bush-ab9bb31a
+-- https://www.afiniti.com/team/fabio-corsico
+-- https://www.afiniti.com/team/andrea-wong
+--- https://www.linkedin.com/in/andrea-wong-2ba152153
+-- https://www.afiniti.com/team/simon-lee
+--- https://www.linkedin.com/in/simon-lee-b4a546116
+-- https://www.afiniti.com/team/andrew-knight
+-- https://www.afiniti.com/team/admiral-mullen
+--- https://www.linkedin.com/in/admiral-mike-mullen-s-77037440
+-- https://www.afiniti.com/team/tom-glocer
+--- https://www.linkedin.com/in/tom-glocer-66729
+-- https://www.afiniti.com/team/rob-rankin
+-- https://www.afiniti.com/team/mark-wilson
+- https://www.afiniti.com/news
+- https://www.afiniti.com/history
+-- https://www.afiniti.com/partners/mckinsey
+-- https://www.forbes.com/forbes/welcome/?toURL=https://www.forbes.com/sites/schoolboard/2017/08/16/robots-may-not-take-%C2%AD%C2%AD%C2%ADyour-job-after-all
+-- https://www.cbinsights.com/research-ai-100
+- https://linkedin.com/company/afiniti-com
+- https://www.afiniti.com/clients/aa
+- https://www.afiniti.com/what-we-do/how-it-works
+-- https://media.graphcms.com/4y8JBU7cSyS0RhDQRd7U
+- https://www.afiniti.com/what-we-do/where-it-works
+- https://www.afiniti.com/team
+- https://www.afiniti.com/partners/telephony-partners
+-- https://developer.cisco.com/ecosystem/spp/partners/95122
+-- https://www.afiniti.com/video/native-integration
+- https://www.afiniti.com/corporate/rock-paper-scissors
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/corporate/rock-paper-scissors
+-- https://twitter.com/intent/tweet/?text=Rock, Paper, Scissors&amp;url=https://www.afiniti.com/corporate/rock-paper-scissors
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/corporate/rock-paper-scissors&title=Rock, Paper, Scissors.summary=Challenge our AI in a game of Rock Paper Scissors. Learn how we use patterns to predict behavior..&source=https://www.afiniti.com/corporate/rock-paper-scissors
+- https://www.afiniti.com/news/detail/frost-and-sullivan-visionary-innovation-leadership-award
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/frost-and-sullivan-visionary-innovation-leadership-award&title=Afiniti Commended by Frost & Sullivan for its Vision of Using AI to Strategically Match Customers with Service Agents in Contact Centers.summary=.&source=https://www.afiniti.com/news/detail/frost-and-sullivan-visionary-innovation-leadership-award
+-- https://www.afiniti.com/news/detail/ai-regulation-oped
+-- https://media.afiniti.com/press/frost-sullivan-award.pdf
+-- https://www.prnewswire.com/news-releases/afiniti-commended-by-frost--sullivan-for-its-vision-of-using-ai-to-strategically-match-customers-with-service-agents-in-contact-centers-300830356.html
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/frost-and-sullivan-visionary-innovation-leadership-award
+-- http://ww2.frost.com/contact-us
+-- https://twitter.com/intent/tweet/?text=Afiniti Commended by Frost & Sullivan for its Vision of Using AI to Strategically Match Customers with Service Agents in Contact Centers&amp;url=https://www.afiniti.com/news/detail/frost-and-sullivan-visionary-innovation-leadership-award
+- https://www.afiniti.com/management
+-- https://www.afiniti.com/team/john-birrer
+--- https://www.linkedin.com/in/john-birrer-a635761
+-- https://www.afiniti.com/team/ittai-kan
+--- https://www.linkedin.com/in/ittai-kan-4ab264
+-- https://www.afiniti.com/team/hassan-afzal
+--- https://www.linkedin.com/in/hassan-afzal-9679174a
+-- https://www.afiniti.com/team/phil-davis
+--- https://www.linkedin.com/in/phildavisny
+-- https://www.afiniti.com/team/thomas-inskip
+--- https://www.linkedin.com/in/tom-inskip-499b123
+-- https://www.afiniti.com/team/chris-farmer
+--- https://www.linkedin.com/in/chris-farmer-b649aa8
+--- https://scva.ac.uk
+--- https://www.oxford-union.org
+- https://www.afiniti.com/news/events
+-- http://www.afr.com/brand/chanticleer/wyatt-roys-grand-new-adventure-in-machine-learning-20170202-gu4c0w
+-- https://www.afiniti.com/news/detail/altitude-software-partnership
+--- https://twitter.com/intent/tweet/?text=Altitude and Afiniti Partner to Optimize Business Results with Artificial Intelligence in the Contact Center&amp;url=https://www.afiniti.com/news/detail/altitude-software-partnership
+--- http://thetechtribune.com/10-best-tech-startups-in-washington-d-c
+--- http://www.expansion.com/economia-digital/protagonistas/2017/11/29/5a1d4686468aebea3f8b4576.html
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/altitude-software-partnership
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/altitude-software-partnership&title=Altitude and Afiniti Partner to Optimize Business Results with Artificial Intelligence in the Contact Center.summary=.&source=https://www.afiniti.com/news/detail/altitude-software-partnership
+-- https://www.afiniti.com/news/detail/welcome-to-afiniti
+--- https://twitter.com/intent/tweet/?text=Welcome to Afiniti&amp;url=https://www.afiniti.com/news/detail/welcome-to-afiniti
+--- https://www.economist.com/news/special-report/21700759-glimpses-ai-enabled-future-answering-machinery-question?fsrc=scn/fb/te/pe/ed/answeringthemachineryquestion
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/welcome-to-afiniti&title=Welcome to Afiniti.summary=.&source=https://www.afiniti.com/news/detail/welcome-to-afiniti
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/welcome-to-afiniti
+-- https://www.cbinsights.com/research-ai-100
+-- https://www.innovationaus.com/what-wyatt-roy-did-next-afiniti
+-- https://www.afiniti.com/news/detail/o2-partner-award
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/o2-partner-award&title=O2 Names Afiniti "Best Partner for Innovation".summary=Afiniti named 'Best Partner for Innovation' at O2 Partner Awards .&source=https://www.afiniti.com/news/detail/o2-partner-award
+--- https://www.afiniti.com/news/detail/washingtonian-magazine-feature
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/o2-partner-award
+--- https://twitter.com/intent/tweet/?text=O2 Names Afiniti "Best Partner for Innovation"&amp;url=https://www.afiniti.com/news/detail/o2-partner-award
+-- https://www.avaya.com/en/about-avaya/newsroom/news-releases/2017/pr-us-171031
+-- https://www.weforum.org/agenda/2017/01/google-sergey-brin-i-didn-t-see-ai-coming
+-- https://www.standard.co.uk/lifestyle/london-life/global-thinkers-forum-international-womans-day-london-a4084556.html
+-- https://www.idgconnect.com/article/3582363/afiniti-an-ai-way-to-make-call-centre-interaction-less-hideous.html
+-- https://www.afiniti.com/news/detail/afiniti-welcomes-kai-fu-lee
+--- https://www.nojitter.com/contact-center-customer-experience/att-intelligent-pairing-ups-agent-success
+--- https://www.newyorker.com/magazine/2019/03/04/are-robots-competing-for-your-job
+--- https://www.afiniti.com/news/detail/les-echos-telecoms-difficile
+---- https://www.lemonde.fr/economie/article/2018/03/07/free-cede-son-centre-d-appels-de-colombes_5266909_3234.html
+---- https://www.lesechos.fr/25/09/2016/lesechos.fr/0211326744452_michel-paulin---michel-paulin--sfr-------la-reduction-des-couts-n-est-pas-tout--.htm
+---- https://www.lesechos.fr/finance-marches/vernimmen/definition_president-directeur-general.html#xtor=SEC-3168
+---- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/les-echos-telecoms-difficile&title=Les Echos: Télécoms : la difficile modernisation des centres d'appels.summary=Les Echos highlights how Afiniti is driving 4-6% revenue gain for Bouygues by pairing customers and call center agents who are most likely to get along.&source=https://www.afiniti.com/news/detail/les-echos-telecoms-difficile
+---- https://www.lesechos.fr/26/09/2018/lesechos.fr/0302288544181_la-guerre-des-prix-ravage-les-telecoms.htm
+---- https://www.afiniti.com/news/detail/sytel-afiniti-partnership-announcement
+----- https://twitter.com/intent/tweet/?text=Sytel and Afiniti Partner to Bring World-Leading AI Products to the Contact Center to Enhance Agent Performance and Improve Customer Experience&amp;url=https://www.afiniti.com/news/detail/sytel-afiniti-partnership-announcement
+----- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/sytel-afiniti-partnership-announcement
+----- https://www.sytel.com
+----- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/sytel-afiniti-partnership-announcement&title=Sytel and Afiniti Partner to Bring World-Leading AI Products to the Contact Center to Enhance Agent Performance and Improve Customer Experience.summary=Afiniti and Sytel announce a transformative telephony partnership.&source=https://www.afiniti.com/news/detail/sytel-afiniti-partnership-announcement
+---- https://www.lesechos.fr/23/05/2018/LesEchos/22700-086-ECH_investissements-record-pour-les-operateurs-telecoms-en-2017.htm
+---- https://www.lesechos.fr/tech-medias/hightech/0600569414868-telecoms-la-difficile-modernisation-des-centres-dappels-2245746.php
+---- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/les-echos-telecoms-difficile
+---- https://www.lesechos.fr/finance-marches/vernimmen/definition_valeur-ajoutee.html#xtor=SEC-3168
+---- https://twitter.com/intent/tweet/?text=Les Echos: Télécoms : la difficile modernisation des centres d'appels&amp;url=https://www.afiniti.com/news/detail/les-echos-telecoms-difficile
+---- https://www.lesechos.fr/08/10/2018/lesechos.fr/0302371526717_avec-afiniti--les-operateurs-telecoms-experimentent-le---routage-affinitaire--.htm
+---- https://www.lesechos.fr/finance-marches/vernimmen/definition_start-up.html#xtor=SEC-3168
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/afiniti-welcomes-kai-fu-lee&title=Afiniti Welcomes AI Expert Dr. Kai-Fu Lee for Book Discussion.summary=Afiniti Welcomes AI Expert Dr. Kai-Fu Lee for Book Discussion.&source=https://www.afiniti.com/news/detail/afiniti-welcomes-kai-fu-lee
+--- https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF
+--- https://en.wikipedia.org/wiki/Kai-Fu_Lee
+--- https://twitter.com/intent/tweet/?text=Afiniti Welcomes AI Expert Dr. Kai-Fu Lee for Book Discussion&amp;url=https://www.afiniti.com/news/detail/afiniti-welcomes-kai-fu-lee
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/afiniti-welcomes-kai-fu-lee
+-- https://www.afiniti.com/news/detail/avaya-engage-phoenix-recap
+-- https://www.bloomberg.com/news/articles/2017-10-02/tycoon-takes-investors-heli-skiing-to-show-them-pakistan-s-safe
+-- https://www.silicon.co.uk/networks/voip/ai-call-centres-afiniti-customers-187465
+-- https://www.afiniti.com/news/detail/zia-wins-best-ai-ceo
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/zia-wins-best-ai-ceo&title=Zia Chishti Wins “Best AI Company CEO”.summary=The 2020 AI Breakthrough Awards name Afiniti's Zia Chishti as Best AI Company CEO.&source=https://www.afiniti.com/news/detail/zia-wins-best-ai-ceo
+--- https://twitter.com/intent/tweet/?text=Zia Chishti Wins “Best AI Company CEO”&amp;url=https://www.afiniti.com/news/detail/zia-wins-best-ai-ceo
+--- https://aibreakthroughawards.com
+--- https://ledgerinsights.com/ntt-data-covid-19-blockchain-health-certificates
+--- https://aibreakthroughawards.com/2020-winners
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/zia-wins-best-ai-ceo
+- https://www.afiniti.com/what-we-do
+- https://www.afiniti.com/history
+- https://www.afiniti.com/clients/axa-direct-assurance
+- https://www.facebook.com/afinitiai
+- https://www.afiniti.com/videos
+- https://www.afiniti.com/team
+- https://www.afiniti.com/contact
+-- https://www.afiniti.com/offices/islamabad
+-- https://www.afiniti.com/offices/dublin
+-- https://www.afiniti.com/offices/bogota
+- https://www.afiniti.com/news/press
+-- https://www.wired.com/2016/10/president-obama-mit-joi-ito-interview
+-- https://www.wsj.com/articles/that-anonymous-voice-at-the-call-center-they-may-know-a-lot-about-you-1483698608
+-- https://www.cio.com/article/3220474/artificial-intelligence/artificial-intelligence-in-sales-10-companies-to-watch.html
+-- https://www.afiniti.com/news/detail/afiniti-signs-agreement-with-huawei
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/afiniti-signs-agreement-with-huawei&title=Afiniti Signs Agreement with Huawei.summary=null.&source=https://www.afiniti.com/news/detail/afiniti-signs-agreement-with-huawei
+--- https://twitter.com/intent/tweet/?text=Afiniti Signs Agreement with Huawei&amp;url=https://www.afiniti.com/news/detail/afiniti-signs-agreement-with-huawei
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/afiniti-signs-agreement-with-huawei
+-- https://www.computertalk.com/not-your-fathers-toolbox-new-ready-to-run-artificial-intelligence-business-tools-2
+-- https://www.brecorder.com/news/536632/jazz-afiniti-to-enhance-customer-experience-using-ai-solutions
+-- https://www.technologyreview.com/s/603539/the-download-jan-31-2017-the-download-customer-service-ai-quantum-security-and-grocery
+-- https://www.afiniti.com/news/detail/genbeta-discusses-afiniti-contribution-in-spain
+--- https://m.genbeta.com/herramientas/quien-te-atienda-en-un-call-center-pronto-dependera-de-lo-que-escribas-en-redes-sociales
+--- https://twitter.com/intent/tweet/?text=Spanish publication Genbeta discusses Afiniti’s contribution in Spain&amp;url=https://www.afiniti.com/news/detail/genbeta-discusses-afiniti-contribution-in-spain
+--- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/genbeta-discusses-afiniti-contribution-in-spain&title=Spanish publication Genbeta discusses Afiniti’s contribution in Spain.summary=null.&source=https://www.afiniti.com/news/detail/genbeta-discusses-afiniti-contribution-in-spain
+--- https://m.genbeta.com/autor/yubal
+--- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/genbeta-discusses-afiniti-contribution-in-spain
+-- https://tribune.com.pk/story/1577860/2-born-us-raised-pakistan-man-founded-two-billion-dollar-companies
+-- https://www.afiniti.com/news/detail/cb-insights-us-of-ai
+-- https://www.afiniti.com/news/detail/introducing-airo-press-release
+-- https://venturebeat.com/2017/04/14/sales-ai-company-afiniti-raises-1-6-billion-files-for-ipo
+-- https://www.techradar.com/news/this-call-center-ai-system-will-match-you-with-your-perfect-customer-service-rep
+-- https://www.nojitter.com/afiniti-taps-ai-optimize-customer-agent-pairing
+-- https://www.forbes.com/sites/schoolboard/2017/08/16/robots-may-not-take-%C2%AD%C2%AD%C2%ADyour-job-after-all/#28d1d8807a92
+-- https://www.nanalyze.com/2017/05/questioning-machine-learning-label
+- https://www.afiniti.com/what-we-do
+- https://www.afiniti.com/partners
+- https://www.afiniti.com/videos
+- https://www.afiniti.com/contact
+- https://careers.afiniti.com
+- https://portal.afiniti.com
+- https://www.afiniti.com/corporate/rock-paper-scissors
+- https://portal.afiniti.com
+- https://www.afiniti.com/what-we-do/how-it-works
+- https://www.afiniti.com/news
+- https://www.linkedin.com/company/afiniti-com
+- https://www.afiniti.com/partners/channel-partners
+- https://products.afiniti.com
+- https://www.afiniti.com/clients
+- https://www.afiniti.com/partners
+- https://www.afiniti.com/legal/privacy
+- https://www.afiniti.com/news/detail/gitex-awards
+-- https://techcrunch.com
+-- https://www.brecorder.com/news/536632/jazz-afiniti-to-enhance-customer-experience-using-ai-solutions
+-- https://www.linkedin.com/shareArticle?mini=true&url=https://www.afiniti.com/news/detail/gitex-awards&title=Afiniti wins inaugural GITEX Hero Award.summary=null.&source=https://www.afiniti.com/news/detail/gitex-awards
+-- https://twitter.com/intent/tweet/?text=Afiniti wins inaugural GITEX Hero Award&amp;url=https://www.afiniti.com/news/detail/gitex-awards
+-- https://www.afiniti.com/team/chris-farmer
+-- https://www.gitex.com
+-- https://facebook.com/sharer/sharer.php?u=https://www.afiniti.com/news/detail/gitex-awards
+-- https://www.afiniti.com/news/detail/cb-insights-us-of-ai
+- https://www.afiniti.com/what-we-do/pairing-better
+- https://www.facebook.com/afinitiai
+- https://www.afiniti.com/covid-19
+- https://www.afiniti.com/team
+- https://twitter.com/afiniti
+- https://www.afiniti.com/clients
+- https://www.afiniti.com/news
+- https://twitter.com/afiniti
+- https://www.afiniti.com/clients/g6-hospitality
+-- https://www.newswire.com/news/afiniti-and-g6-hospitality-partner-to-measurably-enhance-guest-20905276
